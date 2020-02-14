@@ -26,7 +26,7 @@ BWA=~/bin/bwa/bwa
 SBL=~/bin/samblaster/samblaster
 
 # bwa command
-cmdline=$BWA\ mem\ $bwagenind\ -t\ 2\ -R\ $rg\ $fq1\ $fq2
+cmdline=$BWA\ mem\ $bwagenind\ -t\ 4\ -R\ $rg\ $fq1\ $fq2
 echo $cmdline
 
 # execute bwa command line, pipe to samblaster to mark duplicates and create files containing discordant and split alignments, then to samtools to sort output. 
