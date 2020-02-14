@@ -13,6 +13,7 @@
 
 
 module load samtools/1.9
+module load bwa/0.7.17
 
 # reference genome
 GENOME=../../genome/GCF_000826765.1_Fundulus_heteroclitus-3.0.2_genomic.fasta.bgz
