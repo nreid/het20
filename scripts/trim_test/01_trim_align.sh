@@ -53,7 +53,7 @@ SAMPLES=($(echo RLM_14517 RLM_14540 RLM_14565 RLM_14573 RLM_14948 BU18FLJX053 BU
 
 # bwa alignment
 	# align script
-	ALN=/align_generic.sh
+	ALN=align_generic.sh
 	# reference genome
 	GENOME=../../genome/GCF_000826765.1_Fundulus_heteroclitus-3.0.2_genomic.fasta.bgz
 	
