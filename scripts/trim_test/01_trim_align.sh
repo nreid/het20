@@ -41,7 +41,7 @@ SAMPLES=($(echo RLM_14517 RLM_14540 RLM_14565 RLM_14573 RLM_14948 BU18FLJX053 BU
 	# run trimmomatic
 	java -jar $Trimmomatic PE \
 	-threads 12 \
-	-basein $FASTQDIR/$INFILE \
+	-basein $INFILE \
 	-baseout $TRIMDIR/$OUTFILE \
 	ILLUMINACLIP:$ADAPT:2:30:10 \
 	LEADING:3 \
