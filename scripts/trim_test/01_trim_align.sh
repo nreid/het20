@@ -34,14 +34,15 @@ SAMPLES=($(echo RLM_14517 RLM_14540 RLM_14565 RLM_14573 RLM_14948 BU18FLJX053 BU
 
 	#input, output fastqs
 	SAM=${SAMPLES[$SLURM_ARRAY_TASK_ID]}
-	INFILE=$FASTQDIR/$SAM/${SAM}_R1.fastq.gz
+	INFILE1=$FASTQDIR/$SAM/${SAM}_R1.fastq.gz
+	INFILE2=$FASTQDIR/$SAM/${SAM}_R2.fastq.gz
 	OUTFILE=${SAM}.fastq.gz
 
 
 	# run trimmomatic
 	java -jar $Trimmomatic PE \
 	-threads 12 \
-	-basein $INFILE \
+	-basein $INFILE1 $INFILE2 \
 	-baseout $TRIMDIR/$OUTFILE \
 	ILLUMINACLIP:$ADAPT:2:30:10 \
 	LEADING:3 \
