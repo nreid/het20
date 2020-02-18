@@ -33,6 +33,7 @@ FQ1S=($(find $INDIR -name "${SAM}_*fastq.gz" | grep R1 | sort))
 FQ2S=($(find $INDIR -name "${SAM}_*fastq.gz" | grep R2 | sort))
 
 # concatenate R1
-cat ${FQ1S[@]} >TEST/$SAM.merged_R1.fastq.gz
+cat ${FQ1S[@]} >$OUTDIR/$SAM.merged_R1.fastq.gz
 # concatenate R2
-cat ${FQ2S[@]} >TEST/$SAM.merged_R2.fastq.gz
+cat ${FQ2S[@]} >$OUTDIR/$SAM.merged_R2.fastq.gz
+
