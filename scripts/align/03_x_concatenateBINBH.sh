@@ -37,3 +37,24 @@ cat ${FQ1S[@]} >$OUTDIR/$SAM.merged_R1.fastq.gz
 # concatenate R2
 cat ${FQ2S[@]} >$OUTDIR/$SAM.merged_R2.fastq.gz
 
+
+# the code below was executed interactively to add Project_GSF_571 files, which have underscore sample name separators. 
+# it didn't take long
+
+# for file in $(find Reidetal2016_raw/Project_GSF_571/ -name "*fastq.gz" | grep _R..fastq.gz)
+
+# do
+# INFILE=$(echo $file | sed 's/BI_/BI-/g' | sed 's/NBH_/NBH-/g')
+# SAM=$(echo $INFILE | sed 's/.*\///' | sed 's/_.*//')
+# SUF=$(echo $INFILE | sed 's/.*\///' | sed 's/.*_//')
+# OUTFILE=Reidetal2016_merged/${SAM}.merged_${SUF}
+
+# echo $SAM
+# echo $INFILE
+# echo $SUF
+# echo $OUTFILE
+
+# cat $file >>$OUTFILE
+
+# done
+
