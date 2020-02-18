@@ -20,7 +20,7 @@
 
 INDIR=../../../data/Reidetal2016_raw
 OUTDIR=../../../data/Reidetal2016_merged
-mkdir -p OUTDIR
+mkdir -p $OUTDIR
 
 # get sample IDs
 SAMPLES=($(find $INDIR -name "*fastq.gz" | sed 's/.*\///' | sed 's/_[ACGT][ACGT].*//' | grep -v "_" | sort -V | uniq))

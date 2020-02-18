@@ -1,5 +1,5 @@
 #!/bin/bash 
-#SBATCH --job-name=multiqc
+#SBATCH --job-name=test_variants
 #SBATCH --mail-user=noah.reid@uconn.edu
 #SBATCH --mail-type=ALL
 #SBATCH -o %x_%j.out
