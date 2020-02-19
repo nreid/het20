@@ -25,5 +25,5 @@ find ../../results/alignments/BU1*bam | grep -v disc | grep -v split >>$OUTDIR/b
 grep -P "RLM|BU1" ../../metadata/all_populations.txt >../../metadata/test_populations.txt
 
 
-$FB -f $GENOME --populations ../../metadata/test_populations.txt -T 0.01 -k --bam-list $OUTDIR/bams.list -r NW_012224401.1 | bgzip >$OUTDIR/mm.vcf.gz
+$FB -f $GENOME --populations ../../metadata/test_populations.txt -T 0.01 --bam-list $OUTDIR/bams.list -r NW_012224401.1 | bgzip >$OUTDIR/mm.vcf.gz
 
