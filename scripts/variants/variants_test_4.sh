@@ -36,5 +36,5 @@ $FB \
 --haplotype-length 0 \
 --use-best-n-alleles 25 \
 -r NW_012224401.1 | \
-bgzip >$OUTDIR/mm3.vcf.gz
+bgzip >$OUTDIR/mm4.vcf.gz
 
