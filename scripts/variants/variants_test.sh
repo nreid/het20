@@ -23,5 +23,5 @@ find ../../results/alignments/RLM_*bam | grep -v disc | grep -v split >$OUTDIR/b
 find ../../results/alignments/BU1*bam | grep -v disc | grep -v split >>$OUTDIR/bams.list
 
 
-$FB -f $GENOME -T 0.01 -k --bam-list $OUTDIR/bams.list -r NW_012224401.1 | bgzip >$OUTDIR/mm.vcf
+$FB -f $GENOME -T 0.01 -k --bam-list $OUTDIR/bams.list -r NW_012224401.1 | bgzip >$OUTDIR/mm.vcf.gz
 

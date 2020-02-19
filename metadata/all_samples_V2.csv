@@ -1,0 +1,962 @@
+"ID","Species","Population","Sex","SeqData","SRA","Biosample","Coll..Date","Ext..Date","Len..mm.","Wgt..g.","ng.ul","Pop_tag","ID2","dose_PCB126"
+"SH-8","heteroclitus","Sandy Hook","M","WGS","SRS3333006","SAMN05930739","8/5/08","12/17/08",41.8,NA,"115.58","SH",NA,NA
+"SH-7","heteroclitus","Sandy Hook","M","WGS","SRS3333005","SAMN05930738","8/5/08","12/17/08",41.8,NA,"149.03","SH",NA,NA
+"SH-6","heteroclitus","Sandy Hook","M","WGS","SRS3333008","SAMN05930737","8/5/08","12/17/08",45.5,NA,"150.49","SH",NA,NA
+"SH-5","heteroclitus","Sandy Hook","M","WGS","SRS3333007","SAMN05930736","8/5/08","12/17/08",44.1,NA,"112.65","SH",NA,NA
+"SH-4","heteroclitus","Sandy Hook","M","WGS","SRS3333002","SAMN05930735","8/5/08","12/17/08",43,NA,"172.01","SH",NA,NA
+"SH-42","heteroclitus","Sandy Hook","F","WGS","SRS3333001","SAMN05930734","8/5/08","",40.2,NA,"138.93","SH",NA,NA
+"SH-41","heteroclitus","Sandy Hook","F","WGS","SRS3333003","SAMN05930733","8/5/08","",43.2,NA,"165.83","SH",NA,NA
+"SH-40","heteroclitus","Sandy Hook","F","WGS","SRS3333004","SAMN05930732","8/5/08","",41.1,NA,"178.80","SH",NA,NA
+"SH-3","heteroclitus","Sandy Hook","M","WGS","SRS3332999","SAMN05930731","8/5/08","12/17/08",46.3,NA,"127.96","SH",NA,NA
+"SH-39","heteroclitus","Sandy Hook","F","WGS","SRS3332998","SAMN05930730","8/5/08","12/17/08",41.1,NA,"79.35","SH",NA,NA
+"SH-38","heteroclitus","Sandy Hook","F","WGS","SRS3333058","SAMN05930729","8/5/08","12/17/08",53.1,NA,"211.63","SH",NA,NA
+"SH-37","heteroclitus","Sandy Hook","F","WGS","SRS3333057","SAMN05930728","8/5/08","12/17/08",62,NA,"134.40","SH",NA,NA
+"SH-36","heteroclitus","Sandy Hook","F","WGS","SRS3333060","SAMN05930727","8/5/08","12/17/08",69,NA,"247.59","SH",NA,NA
+"SH-35","heteroclitus","Sandy Hook","F","WGS","SRS3333059","SAMN05930726","8/5/08","12/17/08",51.6,NA,"226.30","SH",NA,NA
+"SH-34","heteroclitus","Sandy Hook","F","WGS","SRS3333054","SAMN05930725","8/5/08","12/17/08",45.5,NA,"105.01","SH",NA,NA
+"SH-33","heteroclitus","Sandy Hook","F","WGS","SRS3333053","SAMN05930724","8/5/08","12/17/08",38.6,NA,"155.44","SH",NA,NA
+"SH-32","heteroclitus","Sandy Hook","F","WGS","SRS3333056","SAMN05930723","8/5/08","12/17/08",44.8,NA,"148.01","SH",NA,NA
+"SH-31","heteroclitus","Sandy Hook","F","WGS","SRS3333055","SAMN05930722","8/5/08","12/17/08",48.3,NA,"130.71","SH",NA,NA
+"SH-30","heteroclitus","Sandy Hook","M","WGS","SRS3333051","SAMN05930721","8/5/08","",63.7,NA,"285.38","SH",NA,NA
+"SH-2","heteroclitus","Sandy Hook","M","WGS","SRS3333050","SAMN05930720","8/5/08","12/17/08",39.2,NA,"103.08","SH",NA,NA
+"SH-29","heteroclitus","Sandy Hook","M","WGS","SRS3333120","SAMN05930719","8/5/08","12/18/08",60.5,NA,"277.93","SH",NA,NA
+"SH-28","heteroclitus","Sandy Hook","M","WGS","SRS3333119","SAMN05930718","8/5/08","12/18/08",60.5,NA,"234.05","SH",NA,NA
+"SH-27","heteroclitus","Sandy Hook","M","WGS","SRS3333121","SAMN05930717","8/5/08","12/18/08",61.1,NA,"214.79","SH",NA,NA
+"SH-26","heteroclitus","Sandy Hook","M","WGS","SRS3333124","SAMN05930716","8/5/08","12/18/08",65.3,NA,"189.16","SH",NA,NA
+"SH-25","heteroclitus","Sandy Hook","M","WGS","SRS3333114","SAMN05930715","8/5/08","12/18/08",68.1,NA,"232.84","SH",NA,NA
+"SH-24","heteroclitus","Sandy Hook","M","WGS","SRS3333116","SAMN05930714","8/5/08","12/18/08",61.9,NA,"223.08","SH",NA,NA
+"SH-23","heteroclitus","Sandy Hook","M","WGS","SRS3333117","SAMN05930713","8/5/08","12/18/08",36.9,NA,"160.76","SH",NA,NA
+"SH-22","heteroclitus","Sandy Hook","M","WGS","SRS3333118","SAMN05930712","8/5/08","12/18/08",36.9,NA,"115.68","SH",NA,NA
+"SH-21","heteroclitus","Sandy Hook","M","WGS","SRS3333123","SAMN05930711","8/5/08","12/18/08",39.4,NA,"195.56","SH",NA,NA
+"SH-213","heteroclitus","Sandy Hook","F","WGS","SRS3333122","SAMN05930710","8/5/08","",63.4,NA,"154.61","SH",NA,NA
+"SH-212","heteroclitus","Sandy Hook","F","WGS","SRS3333096","SAMN05930709","8/5/08","",57.6,NA,"196.71","SH",NA,NA
+"SH-211","heteroclitus","Sandy Hook","F","WGS","SRS3333098","SAMN05930708","8/5/08","",53.6,NA,"211.79","SH",NA,NA
+"SH-210","heteroclitus","Sandy Hook","F","WGS","SRS3333095","SAMN05930707","8/5/08","",56.2,NA,"230.79","SH",NA,NA
+"SH-20","heteroclitus","Sandy Hook","M","WGS","SRS3333094","SAMN05930706","8/5/08","",64.8,NA,"243.30","SH",NA,NA
+"SH-209","heteroclitus","Sandy Hook","F","WGS","SRS3333101","SAMN05930705","8/5/08","",51.9,NA,"118.94","SH",NA,NA
+"SH-208","heteroclitus","Sandy Hook","F","WGS","SRS3333100","SAMN05930704","8/5/08","12/18/08",54.8,NA,"137.42","SH",NA,NA
+"SH-207","heteroclitus","Sandy Hook","F","WGS","SRS3333097","SAMN05930703","8/5/08","12/18/08",52.7,NA,"160.94","SH",NA,NA
+"SH-206","heteroclitus","Sandy Hook","F","WGS","SRS3333099","SAMN05930702","8/5/08","12/18/08",60.5,NA,"167.70","SH",NA,NA
+"SH-205","heteroclitus","Sandy Hook","F","WGS","SRS3333092","SAMN05930701","8/5/08","12/18/08",50.9,NA,"181.90","SH",NA,NA
+"SH-204","heteroclitus","Sandy Hook","F","WGS","SRS3333091","SAMN05930700","8/5/08","12/18/08",54.8,NA,"209.61","SH",NA,NA
+"SH-203","heteroclitus","Sandy Hook","F","WGS","SRS3332978","SAMN05930699","8/5/08","12/18/08",62.6,NA,"153.18","SH",NA,NA
+"SH-202","heteroclitus","Sandy Hook","F","WGS","SRS3332979","SAMN05930698","8/5/08","12/18/08",56.1,NA,"240.73","SH",NA,NA
+"SH-201","heteroclitus","Sandy Hook","F","WGS","SRS3332976","SAMN05930697","8/5/08","12/18/08",49,NA,"161.38","SH",NA,NA
+"SH-1","heteroclitus","Sandy Hook","M","WGS","SRS3332977","SAMN05930696","8/5/08","12/17/08",41.7,NA,"125.75","SH",NA,NA
+"SH-19","heteroclitus","Sandy Hook","M","WGS","SRS3332982","SAMN05930695","8/5/08","",63.8,NA,"206.90","SH",NA,NA
+"SH-18","heteroclitus","Sandy Hook","M","WGS","SRS3332984","SAMN05930694","8/5/08","",67,NA,"227.48","SH",NA,NA
+"SH-17","heteroclitus","Sandy Hook","M","WGS","SRS3332980","SAMN05930693","8/5/08","",41.5,NA,"223.47","SH",NA,NA
+"SH-16","heteroclitus","Sandy Hook","M","WGS","SRS3332981","SAMN05930692","8/5/08","",40,NA,"182.67","SH",NA,NA
+"SH-15","heteroclitus","Sandy Hook","M","WGS","SRS3332983","SAMN05930691","8/5/08","",39.7,NA,"179.27","SH",NA,NA
+"SH-14","heteroclitus","Sandy Hook","M","WGS","SRS3332985","SAMN05930690","8/5/08","",40.6,NA,"252.94","SH",NA,NA
+"NYC-9","heteroclitus","Newark","F","WGS","SRS3333138","SAMN05930689","10/1/08","12/17/08",58.6,NA,"128.31","NYC",NA,NA
+"NYC-8","heteroclitus","Newark","F","WGS","SRS3333137","SAMN05930688","10/1/08","12/17/08",58.6,NA,"128.31","NYC",NA,NA
+"NYC-55","heteroclitus","Newark","M","WGS","SRS3333140","SAMN05930687","10/1/08","",52.4,NA,"200.97","NYC",NA,NA
+"NYC-54","heteroclitus","Newark","F","WGS","SRS3333139","SAMN05930686","10/1/08","",62.5,NA,"188.94","NYC",NA,NA
+"NYC-53","heteroclitus","Newark","F","WGS","SRS3333142","SAMN05930685","10/1/08","",57.5,NA,"177.51","NYC",NA,NA
+"NYC-52","heteroclitus","Newark","F","WGS","SRS3333141","SAMN05930684","10/1/08","",57.6,NA,"143.68","NYC",NA,NA
+"NYC-51","heteroclitus","Newark","M","WGS","SRS3333145","SAMN05930683","10/1/08","",47.4,NA,"166.73","NYC",NA,NA
+"NYC-50","heteroclitus","Newark","M","WGS","SRS3333143","SAMN05930682","10/1/08","",58.2,NA,"192.33","NYC",NA,NA
+"NYC-49","heteroclitus","Newark","M","WGS","SRS3333144","SAMN05930681","10/1/08","",47.4,NA,"186.69","NYC",NA,NA
+"NYC-48","heteroclitus","Newark","M","WGS","SRS3333146","SAMN05930680","10/1/08","",59.6,NA,"237.10","NYC",NA,NA
+"NYC-47","heteroclitus","Newark","F","WGS","SRS3333147","SAMN05930679","10/1/08","",56.3,NA,"211.47","NYC",NA,NA
+"NYC-46","heteroclitus","Newark","M","WGS","SRS3333148","SAMN05930678","10/1/08","",47.8,NA,"238.32","NYC",NA,NA
+"NYC-45","heteroclitus","Newark","M","WGS","SRS3333150","SAMN05930677","10/1/08","",54.6,NA,"277.98","NYC",NA,NA
+"NYC-44","heteroclitus","Newark","M","WGS","SRS3333151","SAMN05930676","10/1/08","",58.7,NA,"226.61","NYC",NA,NA
+"NYC-43","heteroclitus","Newark","M","WGS","SRS3333020","SAMN05930675","10/1/08","",58,NA,"210.74","NYC",NA,NA
+"NYC-42","heteroclitus","Newark","M","WGS","SRS3333032","SAMN05930674","10/1/08","",55,NA,"296.58","NYC",NA,NA
+"NYC-41","heteroclitus","Newark","M","WGS","SRS3333161","SAMN05930673","10/1/08","",61.6,NA,"243.81","NYC",NA,NA
+"NYC-40","heteroclitus","Newark","F","WGS","SRS3333162","SAMN05930672","10/1/08","",61.3,NA,"139.04","NYC",NA,NA
+"NYC-34","heteroclitus","Newark","M","WGS","SRS3333125","SAMN05930671","10/1/08","12/18/08",48.1,NA,"109.27","NYC",NA,NA
+"NYC-33","heteroclitus","Newark","F","WGS","SRS3333126","SAMN05930670","10/1/08","12/18/08",58.6,NA,"148.63","NYC",NA,NA
+"NYC-32","heteroclitus","Newark","M","WGS","SRS3333087","SAMN05930669","10/1/08","12/18/08",67,NA,"153.57","NYC",NA,NA
+"NYC-31","heteroclitus","Newark","M","WGS","SRS3333073","SAMN05930668","10/1/08","12/18/08",62.5,NA,"192.16","NYC",NA,NA
+"NYC-30","heteroclitus","Newark","M","WGS","SRS3333018","SAMN05930667","10/1/08","12/18/08",61.1,NA,"199.06","NYC",NA,NA
+"NYC-29","heteroclitus","Newark","F","WGS","SRS3333016","SAMN05930666","10/1/08","12/18/08",48.2,NA,"81.82","NYC",NA,NA
+"NYC-28","heteroclitus","Newark","F","WGS","SRS3333031","SAMN05930665","10/1/08","12/18/08",59.3,NA,"143.70","NYC",NA,NA
+"NYC-27","heteroclitus","Newark","F","WGS","SRS3333034","SAMN05930664","10/1/08","12/18/08",46.4,NA,"106.10","NYC",NA,NA
+"NYC-26","heteroclitus","Newark","F","WGS","SRS3333000","SAMN05930663","10/1/08","12/18/08",58.4,NA,"174.28","NYC",NA,NA
+"NYC-25","heteroclitus","Newark","M","WGS","SRS3332997","SAMN05930662","10/1/08","12/18/08",55.5,NA,"284.45","NYC",NA,NA
+"NYC-24","heteroclitus","Newark","M","WGS","SRS3333042","SAMN05930661","10/1/08","12/18/08",54.3,NA,"157.75","NYC",NA,NA
+"NYC-23","heteroclitus","Newark","F","WGS","SRS3333040","SAMN05930660","10/1/08","12/18/08",58.6,NA,"148.89","NYC",NA,NA
+"NYC-22","heteroclitus","Newark","F","WGS","SRS3333061","SAMN05930659","10/1/08","12/18/08",62.8,NA,"106.66","NYC",NA,NA
+"NYC-21","heteroclitus","Newark","F","WGS","SRS3333072","SAMN05930658","10/1/08","12/18/08",68.9,NA,"358.93","NYC",NA,NA
+"NYC-20","heteroclitus","Newark","F","WGS","SRS3333035","SAMN05930657","10/1/08","12/18/08",60.8,NA,"120.64","NYC",NA,NA
+"NYC-19","heteroclitus","Newark","F","WGS","SRS3333052","SAMN05930656","10/1/08","12/18/08",57.3,NA,"241.26","NYC",NA,NA
+"NYC-18","heteroclitus","Newark","M","WGS","SRS3333036","SAMN05930655","10/1/08","12/18/08",49.4,NA,"124.87","NYC",NA,NA
+"NYC-17","heteroclitus","Newark","F","WGS","SRS3333037","SAMN05930654","10/1/08","12/17/08",58,NA,"128.10","NYC",NA,NA
+"NYC-16","heteroclitus","Newark","M","WGS","SRS3333033","SAMN05930653","10/1/08","12/17/08",51.6,NA,"118.75","NYC",NA,NA
+"NYC-15","heteroclitus","Newark","M","WGS","SRS3332996","SAMN05930652","10/1/08","12/17/08",63.1,NA,"72.08","NYC",NA,NA
+"NYC-14","heteroclitus","Newark","F","WGS","SRS3333113","SAMN05930651","10/1/08","12/17/08",58.6,NA,"128.31","NYC",NA,NA
+"NYC-13","heteroclitus","Newark","F","WGS","SRS3333115","SAMN05930650","10/1/08","12/17/08",58.6,NA,"128.31","NYC",NA,NA
+"NYC-12","heteroclitus","Newark","F","WGS","SRS3333149","SAMN05930649","10/1/08","12/17/08",58.6,NA,"128.31","NYC",NA,NA
+"NYC-11","heteroclitus","Newark","F","WGS","SRS3333085","SAMN05930648","10/1/08","12/17/08",58.6,NA,"128.31","NYC",NA,NA
+"NYC-10","heteroclitus","Newark","F","WGS","SRS3333019","SAMN05930647","10/1/08","12/17/08",58.6,NA,"128.31","NYC",NA,NA
+"NBH-9","heteroclitus","New Bedford Harbor","M","WGS","SRS1771059","SAMN05930646","7/22/08","12/17/08",61.3,NA,"174.12","NBH",NA,NA
+"NBH-8","heteroclitus","New Bedford Harbor","M","WGS","SRS1771058","SAMN05930645","7/22/08","12/17/08",65.8,NA,"237.51","NBH",NA,NA
+"NBH-7","heteroclitus","New Bedford Harbor","F","WGS","SRS1771070","SAMN05930644","7/22/08","12/17/08",64.2,NA,"105.94","NBH",NA,NA
+"NBH-6","heteroclitus","New Bedford Harbor","F","WGS","SRS1770969","SAMN05930643","7/22/08","12/17/08",69.6,NA,"238.58","NBH",NA,NA
+"NBH-5","heteroclitus","New Bedford Harbor","M","WGS","SRS1771055","SAMN05930642","7/22/08","12/17/08",66,NA,"189.25","NBH",NA,NA
+"NBH-56","heteroclitus","New Bedford Harbor","F","WGS","SRS1771054","SAMN05930641","7/22/08","",62.8,NA,"151.71","NBH",NA,NA
+"NBH-4","heteroclitus","New Bedford Harbor","F","WGS","SRS1771053","SAMN05930640","7/22/08","12/17/08",64.2,NA,"163.70","NBH",NA,NA
+"NBH-49","heteroclitus","New Bedford Harbor","M","WGS","SRS1771052","SAMN05930639","7/22/08","",66.2,NA,"108.54","NBH",NA,NA
+"NBH-48","heteroclitus","New Bedford Harbor","F","WGS","SRS1771033","SAMN05930638","7/22/08","",67.4,NA,"160.87","NBH",NA,NA
+"NBH-47","heteroclitus","New Bedford Harbor","F","WGS","SRS1771032","SAMN05930637","7/22/08","",58.8,NA,"133.32","NBH",NA,NA
+"NBH-46","heteroclitus","New Bedford Harbor","M","WGS","SRS1771150","SAMN05930636","7/22/08","",55.7,NA,"105.13","NBH",NA,NA
+"NBH-45","heteroclitus","New Bedford Harbor","M","WGS","SRS1771148","SAMN05930635","7/22/08","",62,NA,"172.87","NBH",NA,NA
+"NBH-44","heteroclitus","New Bedford Harbor","F","WGS","SRS1771147","SAMN05930634","7/22/08","",66.6,NA,"153.19","NBH",NA,NA
+"NBH-43","heteroclitus","New Bedford Harbor","F","WGS","SRS1771146","SAMN05930633","7/22/08","",74.2,NA,"205.23","NBH",NA,NA
+"NBH-42","heteroclitus","New Bedford Harbor","F","WGS","SRS1771153","SAMN05930632","7/22/08","",64.6,NA,"169.75","NBH",NA,NA
+"NBH-41","heteroclitus","New Bedford Harbor","M","WGS","SRS1771152","SAMN05930631","7/22/08","",65.5,NA,"130.32","NBH",NA,NA
+"NBH-40","heteroclitus","New Bedford Harbor","F","WGS","SRS1771151","SAMN05930630","7/22/08","",65.7,NA,"138.97","NBH",NA,NA
+"NBH-39","heteroclitus","New Bedford Harbor","M","WGS","SRS1771149","SAMN05930629","7/22/08","",66.8,NA,"246.44","NBH",NA,NA
+"NBH-38","heteroclitus","New Bedford Harbor","F","WGS","SRS1771145","SAMN05930628","7/22/08","",67.5,NA,"143.96","NBH",NA,NA
+"NBH-37","heteroclitus","New Bedford Harbor","M","WGS","SRS1771144","SAMN05930627","7/22/08","",60.7,NA,"201.40","NBH",NA,NA
+"NBH-36","heteroclitus","New Bedford Harbor","M","WGS","SRS1771125","SAMN05930626","7/22/08","",61.7,NA,"217.19","NBH",NA,NA
+"NBH-35","heteroclitus","New Bedford Harbor","M","WGS","SRS1771126","SAMN05930625","7/22/08","",58.5,NA,"162.54","NBH",NA,NA
+"NBH-34","heteroclitus","New Bedford Harbor","M","WGS","SRS1771124","SAMN05930624","7/22/08","12/18/08",66.2,NA,"135.02","NBH",NA,NA
+"NBH-33","heteroclitus","New Bedford Harbor","M","WGS","SRS1771127","SAMN05930623","7/22/08","12/18/08",62.8,NA,"274.48","NBH",NA,NA
+"NBH-32","heteroclitus","New Bedford Harbor","F","WGS","SRS1771122","SAMN05930622","7/22/08","12/18/08",66,NA,"297.82","NBH",NA,NA
+"NBH-31","heteroclitus","New Bedford Harbor","M","WGS","SRS1771123","SAMN05930621","7/22/08","12/18/08",62.7,NA,"261.48","NBH",NA,NA
+"NBH-30","heteroclitus","New Bedford Harbor","F","WGS","SRS1771120","SAMN05930620","7/22/08","12/18/08",61,NA,"192.74","NBH",NA,NA
+"NBH-2","heteroclitus","New Bedford Harbor","M","WGS","SRS1771121","SAMN05930619","7/22/08","12/17/08",65.6,NA,"100.49","NBH",NA,NA
+"NBH-29","heteroclitus","New Bedford Harbor","F","WGS","SRS1771118","SAMN05930618","7/22/08","12/18/08",66.3,NA,"150.20","NBH",NA,NA
+"NBH-28","heteroclitus","New Bedford Harbor","M","WGS","SRS1771117","SAMN05930617","7/22/08","12/18/08",62.1,NA,"246.27","NBH",NA,NA
+"NBH-27","heteroclitus","New Bedford Harbor","M","WGS","SRS1771088","SAMN05930616","7/22/08","12/18/08",60,NA,"254.02","NBH",NA,NA
+"NBH-26","heteroclitus","New Bedford Harbor","M","WGS","SRS1771087","SAMN05930615","7/22/08","12/18/08",62.5,NA,"264.43","NBH",NA,NA
+"NBH-25","heteroclitus","New Bedford Harbor","F","WGS","SRS1771090","SAMN05930614","7/22/08","12/18/08",71.1,NA,"324.02","NBH",NA,NA
+"NBH-24","heteroclitus","New Bedford Harbor","M","WGS","SRS1771089","SAMN05930613","7/22/08","12/18/08",55.1,NA,"232.05","NBH",NA,NA
+"NBH-23","heteroclitus","New Bedford Harbor","F","WGS","SRS1771084","SAMN05930612","7/22/08","12/18/08",68.3,NA,"135.13","NBH",NA,NA
+"NBH-22","heteroclitus","New Bedford Harbor","M","WGS","SRS1771083","SAMN05930611","7/22/08","12/18/08",65.8,NA,"154.17","NBH",NA,NA
+"NBH-21","heteroclitus","New Bedford Harbor","M","WGS","SRS1771086","SAMN05930610","7/22/08","12/18/08",59.8,NA,"231.85","NBH",NA,NA
+"NBH-20","heteroclitus","New Bedford Harbor","M","WGS","SRS1771085","SAMN05930609","7/22/08","12/18/08",60.6,NA,"279.21","NBH",NA,NA
+"NBH-1","heteroclitus","New Bedford Harbor","F","WGS","SRS1771082","SAMN05930608","7/22/08","12/17/08",69.8,NA,"101.89","NBH",NA,NA
+"NBH-19","heteroclitus","New Bedford Harbor","F","WGS","SRS1771081","SAMN05930607","7/22/08","12/18/08",74.4,NA,"254.32","NBH",NA,NA
+"NBH-18","heteroclitus","New Bedford Harbor","F","WGS","SRS1771036","SAMN05930606","7/22/08","12/18/08",66,NA,"268.61","NBH",NA,NA
+"NBH-17","heteroclitus","New Bedford Harbor","F","WGS","SRS1771037","SAMN05930605","7/22/08","12/17/08",58,NA,"61.04","NBH",NA,NA
+"NBH-16","heteroclitus","New Bedford Harbor","F","WGS","SRS1771038","SAMN05930604","7/22/08","12/17/08",62.8,NA,"84.70","NBH",NA,NA
+"NBH-14","heteroclitus","New Bedford Harbor","F","WGS","SRS1771039","SAMN05930603","7/22/08","12/17/08",60.2,NA,"87.92","NBH",NA,NA
+"NBH-13","heteroclitus","New Bedford Harbor","M","WGS","SRS1771040","SAMN05930602","7/22/08","12/17/08",59.9,NA,"99.52","NBH",NA,NA
+"NBH-12","heteroclitus","New Bedford Harbor","F","WGS","SRS1771041","SAMN05930601","7/22/08","12/17/08",67.7,NA,"134.86","NBH",NA,NA
+"NBH-11","heteroclitus","New Bedford Harbor","F","WGS","SRS1771042","SAMN05930600","7/22/08","12/17/08",66.4,NA,"229.82","NBH",NA,NA
+"NBH-10","heteroclitus","New Bedford Harbor","M","WGS","SRS1771043","SAMN05930599","7/22/08","12/17/08",62.5,NA,"164.39","NBH",NA,NA
+"KC-9","heteroclitus","Kings Creek","M","WGS","SRS3333093","SAMN05930598","5/20/09","1/19/11",53.3,4.7,"15.9","KC",NA,NA
+"KC-7","heteroclitus","Kings Creek","M","WGS","SRS3333075","SAMN05930597","5/20/09","1/19/11",76.7,11.7,"83.6","KC",NA,NA
+"KC-6","heteroclitus","Kings Creek","M","WGS","SRS3333074","SAMN05930596","5/20/09","1/19/11",55,4.84,"61.5","KC",NA,NA
+"KC-5","heteroclitus","Kings Creek","M","WGS","SRS3333163","SAMN05930595","5/20/09","1/19/11",57.7,5.28,"54.1","KC",NA,NA
+"KC-56","heteroclitus","Kings Creek","F","WGS","SRS3333076","SAMN05930594","5/20/09","7/1/10",53.8,4.34,"80","KC",NA,NA
+"KC-55","heteroclitus","Kings Creek","F","WGS","SRS3333102","SAMN05930593","5/20/09","7/1/10",54.3,4.36,"26.3","KC",NA,NA
+"KC-54","heteroclitus","Kings Creek","F","WGS","SRS3333088","SAMN05930592","5/20/09","7/1/10",46,2.72,"100.3","KC",NA,NA
+"KC-52","heteroclitus","Kings Creek","F","WGS","SRS3333029","SAMN05930591","5/20/09","7/1/10",45.6,4.67,"82.2","KC",NA,NA
+"KC-51","heteroclitus","Kings Creek","F","WGS","SRS3333030","SAMN05930590","5/20/09","7/1/10",59,5.13,"58.1","KC",NA,NA
+"KC-50","heteroclitus","Kings Creek","F","WGS","SRS3333027","SAMN05930589","5/20/09","7/1/10",44.4,4.4,"55.3","KC",NA,NA
+"KC-4","heteroclitus","Kings Creek","M","WGS","SRS3333028","SAMN05930588","5/20/09","1/19/11",56.8,4.57,"160.9","KC",NA,NA
+"KC-49","heteroclitus","Kings Creek","F","WGS","SRS3333025","SAMN05930587","5/20/09","7/1/10",41.9,2.14,"38.2","KC",NA,NA
+"KC-48","heteroclitus","Kings Creek","F","WGS","SRS3333026","SAMN05930586","5/20/09","7/1/10",45.7,2.96,"72.3","KC",NA,NA
+"KC-47","heteroclitus","Kings Creek","F","WGS","SRS3333022","SAMN05930585","5/20/09","7/1/10",52.3,4.03,"104.4","KC",NA,NA
+"KC-46","heteroclitus","Kings Creek","F","WGS","SRS3333024","SAMN05930584","5/20/09","7/1/10",46.6,2.86,"71.7","KC",NA,NA
+"KC-45","heteroclitus","Kings Creek","F","WGS","SRS3333021","SAMN05930583","5/20/09","7/1/10",58,5.79,"56.8","KC",NA,NA
+"KC-44","heteroclitus","Kings Creek","F","WGS","SRS3333023","SAMN05930582","5/20/09","7/1/10",46.2,2.74,"44.4","KC",NA,NA
+"KC-43","heteroclitus","Kings Creek","F","WGS","SRS3333047","SAMN05930581","5/20/09","7/1/10",45.8,3,"87.6","KC",NA,NA
+"KC-42","heteroclitus","Kings Creek","F","WGS","SRS3333046","SAMN05930580","5/20/09","7/1/10",44.9,3.56,"22.9","KC",NA,NA
+"KC-41","heteroclitus","Kings Creek","F","WGS","SRS3333049","SAMN05930579","5/20/09","7/1/10",46.7,2.93,"39","KC",NA,NA
+"KC-40","heteroclitus","Kings Creek","F","WGS","SRS3333048","SAMN05930578","5/20/09","7/1/10",54.7,4.01,"342.8","KC",NA,NA
+"KC-3","heteroclitus","Kings Creek","M","WGS","SRS3333043","SAMN05930577","5/20/09","1/19/11",78.3,14.35,"103.6","KC",NA,NA
+"KC-39","heteroclitus","Kings Creek","F","WGS","SRS3333041","SAMN05930576","5/20/09","7/1/10",56.9,5.8,"128","KC",NA,NA
+"KC-38","heteroclitus","Kings Creek","F","WGS","SRS3333045","SAMN05930575","5/20/09","7/1/10",49.9,3.45,"20.3","KC",NA,NA
+"KC-37","heteroclitus","Kings Creek","F","WGS","SRS3333044","SAMN05930574","5/20/09","7/1/10",59.8,6.23,"92.6","KC",NA,NA
+"KC-36","heteroclitus","Kings Creek","F","WGS","SRS3333039","SAMN05930573","5/20/09","7/1/10",57.5,5.92,"67.7","KC",NA,NA
+"KC-35","heteroclitus","Kings Creek","F","WGS","SRS3333038","SAMN05930572","5/20/09","7/1/10",56,4.94,"56.8","KC",NA,NA
+"KC-34","heteroclitus","Kings Creek","F","WGS","SRS3333064","SAMN05930571","5/20/09","7/1/10",60.1,7.24,"40.1","KC",NA,NA
+"KC-33","heteroclitus","Kings Creek","F","WGS","SRS3333065","SAMN05930570","5/20/09","7/1/10",49.2,4.34,"35.1","KC",NA,NA
+"KC-32","heteroclitus","Kings Creek","F","WGS","SRS3333066","SAMN05930569","5/20/09","7/1/10",60.2,7.7,"70.5","KC",NA,NA
+"KC-30","heteroclitus","Kings Creek","M","WGS","SRS3333067","SAMN05930568","5/20/09","1/19/11",54,4.45,"160.5","KC",NA,NA
+"KC-2","heteroclitus","Kings Creek","M","WGS","SRS3333068","SAMN05930567","5/20/09","1/19/11",60.9,6.8,"24.5","KC",NA,NA
+"KC-29","heteroclitus","Kings Creek","M","WGS","SRS3333069","SAMN05930566","5/20/09","1/19/11",52.2,3.61,"7.2","KC",NA,NA
+"KC-28","heteroclitus","Kings Creek","M","WGS","SRS3333070","SAMN05930565","5/20/09","1/19/11",50.4,3.6,"30.4","KC",NA,NA
+"KC-27","heteroclitus","Kings Creek","M","WGS","SRS3333071","SAMN05930564","5/20/09","1/19/11",45.5,3.48,"81.5","KC",NA,NA
+"KC-26","heteroclitus","Kings Creek","M","WGS","SRS3333062","SAMN05930563","5/20/09","1/19/11",60,5.09,"52.8","KC",NA,NA
+"KC-23","heteroclitus","Kings Creek","M","WGS","SRS3333063","SAMN05930562","5/20/09","1/19/11",52.7,4.43,"61","KC",NA,NA
+"KC-22","heteroclitus","Kings Creek","M","WGS","SRS3333086","SAMN05930561","5/20/09","1/19/11",57.8,5.13,"113.7","KC",NA,NA
+"KC-20","heteroclitus","Kings Creek","M","WGS","SRS3333084","SAMN05930560","5/20/09","1/19/11",48.8,3.42,"22.8","KC",NA,NA
+"KC-1","heteroclitus","Kings Creek","M","WGS","SRS3333083","SAMN05930559","5/20/09","1/19/11",67.2,9.15,"154.5","KC",NA,NA
+"KC-19","heteroclitus","Kings Creek","M","WGS","SRS3333082","SAMN05930558","5/20/09","1/19/11",65.6,7.96,"13","KC",NA,NA
+"KC-18","heteroclitus","Kings Creek","M","WGS","SRS3333081","SAMN05930557","5/20/09","1/19/11",49.7,3.33,"27.6","KC",NA,NA
+"KC-16","heteroclitus","Kings Creek","M","WGS","SRS3333079","SAMN05930556","5/20/09","1/19/11",54.2,4.82,"83.7","KC",NA,NA
+"KC-15","heteroclitus","Kings Creek","M","WGS","SRS3333080","SAMN05930555","5/20/09","1/19/11",55.3,4.61,"17.2","KC",NA,NA
+"KC-14","heteroclitus","Kings Creek","M","WGS","SRS3333078","SAMN05930554","5/20/09","1/19/11",58.6,5.36,"19.9","KC",NA,NA
+"KC-13","heteroclitus","Kings Creek","M","WGS","SRS3333089","SAMN05930553","5/20/09","1/19/11",53.4,3.84,"30.3","KC",NA,NA
+"KC-11","heteroclitus","Kings Creek","M","WGS","SRS3333090","SAMN05930552","5/20/09","1/19/11",58.2,5.58,"31.3","KC",NA,NA
+"F-9","heteroclitus","Flax Pond","M","WGS","SRS1771034","SAMN05930551","11/23/08","12/11/08",61.1,NA,"83.99","F",NA,NA
+"F-8","heteroclitus","Flax Pond","F","WGS","SRS1771035","SAMN05930550","11/23/08","12/11/08",70.1,NA,"56.09","F",NA,NA
+"F-7","heteroclitus","Flax Pond","F","WGS","SRS1771031","SAMN05930549","11/23/08","12/11/08",76.3,NA,"19.79","F",NA,NA
+"F-6","heteroclitus","Flax Pond","F","WGS","SRS1771030","SAMN05930548","11/23/08","12/11/08",81.4,NA,"49.03","F",NA,NA
+"F-5","heteroclitus","Flax Pond","M","WGS","SRS1771029","SAMN05930547","11/23/08","12/11/08",58.1,NA,"129.29","F",NA,NA
+"F-54","heteroclitus","Flax Pond","F","WGS","SRS1771028","SAMN05930546","11/23/08","",65.4,NA,"170.48","F",NA,NA
+"F-53","heteroclitus","Flax Pond","F","WGS","SRS1771027","SAMN05930545","11/23/08","12/18/08",76.1,NA,"180.06","F",NA,NA
+"F-52","heteroclitus","Flax Pond","F","WGS","SRS1771026","SAMN05930544","11/23/08","12/18/08",70.3,NA,"217.14","F",NA,NA
+"F-51","heteroclitus","Flax Pond","F","WGS","SRS1771025","SAMN05930543","11/23/08","12/18/08",63.9,NA,"146.64","F",NA,NA
+"F-50","heteroclitus","Flax Pond","M","WGS","SRS1771024","SAMN05930542","11/23/08","",59.6,NA,"182.78","F",NA,NA
+"F-4","heteroclitus","Flax Pond","M","WGS","SRS1771023","SAMN05930541","11/23/08","12/11/08",54,NA,"89.25","F",NA,NA
+"F-49","heteroclitus","Flax Pond","M","WGS","SRS1771022","SAMN05930540","11/23/08","",61.3,NA,"121.41","F",NA,NA
+"F-47","heteroclitus","Flax Pond","M","WGS","SRS1771012","SAMN05930539","11/23/08","",65.1,NA,"189.54","F",NA,NA
+"F-46","heteroclitus","Flax Pond","F","WGS","SRS1771013","SAMN05930538","11/23/08","12/18/08",63.5,NA,"124.28","F",NA,NA
+"F-45","heteroclitus","Flax Pond","M","WGS","SRS1771009","SAMN05930537","11/23/08","12/18/08",55.5,NA,"210.51","F",NA,NA
+"F-44","heteroclitus","Flax Pond","M","WGS","SRS1771011","SAMN05930536","11/23/08","12/18/08",69,NA,"228.43","F",NA,NA
+"F-43","heteroclitus","Flax Pond","M","WGS","SRS1771016","SAMN05930535","11/23/08","12/18/08",62.1,NA,"265.49","F",NA,NA
+"F-42","heteroclitus","Flax Pond","F","WGS","SRS1771017","SAMN05930534","11/23/08","12/18/08",66.6,NA,"238.59","F",NA,NA
+"F-41","heteroclitus","Flax Pond","F","WGS","SRS1771014","SAMN05930533","11/23/08","12/18/08",65.4,NA,"217.29","F",NA,NA
+"F-40","heteroclitus","Flax Pond","F","WGS","SRS1771015","SAMN05930532","11/23/08","12/18/08",67.4,NA,"199.09","F",NA,NA
+"F-39","heteroclitus","Flax Pond","M","WGS","SRS1771018","SAMN05930531","11/23/08","12/18/08",59.6,NA,"216.63","F",NA,NA
+"F-35","heteroclitus","Flax Pond","F","WGS","SRS1771019","SAMN05930530","11/23/08","12/18/08",66.8,NA,"205.19","F",NA,NA
+"F-34","heteroclitus","Flax Pond","M","WGS","SRS1770981","SAMN05930529","11/23/08","12/18/08",76.5,NA,"213.33","F",NA,NA
+"F-33","heteroclitus","Flax Pond","M","WGS","SRS1770980","SAMN05930528","11/23/08","12/18/08",68.2,NA,"162.30","F",NA,NA
+"F-32","heteroclitus","Flax Pond","F","WGS","SRS1770983","SAMN05930527","11/23/08","12/18/08",75.6,NA,"288.01","F",NA,NA
+"F-31","heteroclitus","Flax Pond","F","WGS","SRS1770982","SAMN05930526","11/23/08","12/18/08",69.1,NA,"251.27","F",NA,NA
+"F-30","heteroclitus","Flax Pond","M","WGS","SRS1770985","SAMN05930525","11/23/08","12/18/08",62.8,NA,"216.20","F",NA,NA
+"F-2","heteroclitus","Flax Pond","M","WGS","SRS1770984","SAMN05930524","11/23/08","12/11/08",68,NA,"28.55","F",NA,NA
+"F-29","heteroclitus","Flax Pond","M","WGS","SRS1770987","SAMN05930523","11/23/08","12/11/08",64.5,NA,"44.51","F",NA,NA
+"F-28","heteroclitus","Flax Pond","F","WGS","SRS1770986","SAMN05930522","11/23/08","12/11/08",69.2,NA,"94.70","F",NA,NA
+"F-27","heteroclitus","Flax Pond","M","WGS","SRS1770989","SAMN05930521","11/23/08","12/11/08",74.6,NA,"169.09","F",NA,NA
+"F-26","heteroclitus","Flax Pond","F","WGS","SRS1770988","SAMN05930520","11/23/08","12/11/08",72.5,NA,"73.99","F",NA,NA
+"F-25","heteroclitus","Flax Pond","F","WGS","SRS1770996","SAMN05930519","11/23/08","12/11/08",71.9,NA,"72.59","F",NA,NA
+"F-24","heteroclitus","Flax Pond","M","WGS","SRS1770997","SAMN05930518","11/23/08","12/11/08",67.6,NA,"290.05","F",NA,NA
+"F-23","heteroclitus","Flax Pond","M","WGS","SRS1770998","SAMN05930517","11/23/08","12/11/08",66.9,NA,"208.70","F",NA,NA
+"F-22","heteroclitus","Flax Pond","F","WGS","SRS1770999","SAMN05930516","11/23/08","12/11/08",71.9,NA,"196.47","F",NA,NA
+"F-21","heteroclitus","Flax Pond","M","WGS","SRS1770992","SAMN05930515","11/23/08","12/11/08",67.7,NA,"223.79","F",NA,NA
+"F-20","heteroclitus","Flax Pond","M","WGS","SRS1770993","SAMN05930514","11/23/08","12/11/08",63.1,NA,"241.57","F",NA,NA
+"F-1","heteroclitus","Flax Pond","F","WGS","SRS1770994","SAMN05930513","11/23/08","12/11/08",70.6,NA,"37.96","F",NA,NA
+"F-19","heteroclitus","Flax Pond","F","WGS","SRS1770995","SAMN05930512","11/23/08","12/11/08",76.2,NA,"180.76","F",NA,NA
+"F-18","heteroclitus","Flax Pond","M","WGS","SRS1770990","SAMN05930511","11/23/08","12/11/08",74.5,NA,"140.86","F",NA,NA
+"F-17","heteroclitus","Flax Pond","F","WGS","SRS1770991","SAMN05930510","11/23/08","12/11/08",73.3,NA,"85.64","F",NA,NA
+"F-16","heteroclitus","Flax Pond","F","WGS","SRS1771129","SAMN05930509","11/23/08","12/11/08",69.4,NA,"99.46","F",NA,NA
+"F-15","heteroclitus","Flax Pond","F","WGS","SRS1771131","SAMN05930508","11/23/08","12/11/08",70.6,NA,"89.33","F",NA,NA
+"F-14","heteroclitus","Flax Pond","M","WGS","SRS1771107","SAMN05930507","11/23/08","12/11/08",66,NA,"114.12","F",NA,NA
+"F-13","heteroclitus","Flax Pond","M","WGS","SRS1771094","SAMN05930506","11/23/08","12/11/08",67.8,NA,"127.09","F",NA,NA
+"F-12","heteroclitus","Flax Pond","M","WGS","SRS1771134","SAMN05930505","11/23/08","12/11/08",73.5,NA,"78.41","F",NA,NA
+"F-11","heteroclitus","Flax Pond","F","WGS","SRS1771135","SAMN05930504","11/23/08","12/11/08",78.5,NA,"78.12","F",NA,NA
+"F-10","heteroclitus","Flax Pond","M","WGS","SRS1771133","SAMN05930503","11/23/08","12/11/08",71.3,NA,"101.05","F",NA,NA
+"ER-60","heteroclitus","Elizabeth River","F","WGS","SRS3333107","SAMN05930502","5/20/09","1/18/11",54.9,4.3,"96.8","ER",NA,NA
+"ER-59","heteroclitus","Elizabeth River","F","WGS","SRS3333105","SAMN05930501","5/20/09","1/18/11",47.9,2.17,"25.9","ER",NA,NA
+"ER-58","heteroclitus","Elizabeth River","F","WGS","SRS3333103","SAMN05930500","5/20/09","1/18/11",56.3,5.34,"119.3","ER",NA,NA
+"ER-57","heteroclitus","Elizabeth River","F","WGS","SRS3333104","SAMN05930499","5/20/09","1/18/11",60.2,5.35,"100.2","ER",NA,NA
+"ER-56","heteroclitus","Elizabeth River","F","WGS","SRS3333109","SAMN05930498","5/20/09","1/18/11",58.4,4.31,"154","ER",NA,NA
+"ER-55","heteroclitus","Elizabeth River","F","WGS","SRS3333110","SAMN05930497","5/20/09","1/18/11",50.8,3.62,"344","ER",NA,NA
+"ER-54","heteroclitus","Elizabeth River","F","WGS","SRS3333106","SAMN05930496","5/20/09","1/18/11",58.6,5.6,"190.2","ER",NA,NA
+"ER-53","heteroclitus","Elizabeth River","F","WGS","SRS3333108","SAMN05930495","5/20/09","1/18/11",53.3,4.1,"347.4","ER",NA,NA
+"ER-52","heteroclitus","Elizabeth River","F","WGS","SRS3333112","SAMN05930494","5/20/09","1/18/11",59.5,5.31,"217.9","ER",NA,NA
+"ER-51","heteroclitus","Elizabeth River","F","WGS","SRS3333111","SAMN05930493","5/20/09","1/18/11",55.9,4.05,"198.6","ER",NA,NA
+"ER-50","heteroclitus","Elizabeth River","F","WGS","SRS3333127","SAMN05930492","5/20/09","1/18/11",43.9,1.71,"83.7","ER",NA,NA
+"ER-49","heteroclitus","Elizabeth River","F","WGS","SRS3333128","SAMN05930491","5/20/09","1/18/11",61.9,5.49,"111","ER",NA,NA
+"ER-48","heteroclitus","Elizabeth River","F","WGS","SRS3333130","SAMN05930490","5/20/09","1/18/11",58.8,5.18,"165.2","ER",NA,NA
+"ER-47","heteroclitus","Elizabeth River","F","WGS","SRS3333129","SAMN05930489","5/20/09","1/18/11",56.7,4.35,"388.9","ER",NA,NA
+"ER-46","heteroclitus","Elizabeth River","F","WGS","SRS3333132","SAMN05930488","5/20/09","1/18/11",54,3.82,"245.4","ER",NA,NA
+"ER-45","heteroclitus","Elizabeth River","F","WGS","SRS3333131","SAMN05930487","5/20/09","1/18/11",56.5,3.64,"63.4","ER",NA,NA
+"ER-44","heteroclitus","Elizabeth River","F","WGS","SRS3333134","SAMN05930486","5/20/09","1/18/11",57.1,4.2,"57.1","ER",NA,NA
+"ER-43","heteroclitus","Elizabeth River","F","WGS","SRS3333133","SAMN05930485","5/20/09","1/18/11",56.2,5.44,"42","ER",NA,NA
+"ER-42","heteroclitus","Elizabeth River","F","WGS","SRS3333135","SAMN05930484","5/20/09","1/18/11",53.8,4.12,"79.2","ER",NA,NA
+"ER-41","heteroclitus","Elizabeth River","F","WGS","SRS3333136","SAMN05930483","5/20/09","1/18/11",66.9,6.8,"34.3","ER",NA,NA
+"ER-40","heteroclitus","Elizabeth River","F","WGS","SRS3333158","SAMN05930482","5/20/09","1/18/11",61.7,4.88,"114.2","ER",NA,NA
+"ER-39","heteroclitus","Elizabeth River","F","WGS","SRS3333159","SAMN05930481","5/20/09","1/18/11",48.9,3.35,"17.4","ER",NA,NA
+"ER-38","heteroclitus","Elizabeth River","F","WGS","SRS3333156","SAMN05930480","5/20/09","1/18/11",60.1,5.74,"29.2","ER",NA,NA
+"ER-36","heteroclitus","Elizabeth River","F","WGS","SRS3333160","SAMN05930479","5/20/09","1/18/11",61.4,5.37,"154.1","ER",NA,NA
+"ER-35","heteroclitus","Elizabeth River","F","WGS","SRS3333154","SAMN05930478","5/20/09","1/18/11",47.8,3.57,"51.9","ER",NA,NA
+"ER-34","heteroclitus","Elizabeth River","F","WGS","SRS3333155","SAMN05930477","5/20/09","1/18/11",54.2,4,"217.7","ER",NA,NA
+"ER-33","heteroclitus","Elizabeth River","F","WGS","SRS3333171","SAMN05930476","5/20/09","1/18/11",62.4,5.51,"225.6","ER",NA,NA
+"ER-32","heteroclitus","Elizabeth River","F","WGS","SRS3333157","SAMN05930475","5/20/09","1/18/11",64.4,6.3,"111.7","ER",NA,NA
+"ER-31","heteroclitus","Elizabeth River","F","WGS","SRS3333152","SAMN05930474","5/20/09","1/18/11",52.2,5.49,"46","ER",NA,NA
+"ER-30","heteroclitus","Elizabeth River","M","WGS","SRS3333153","SAMN05930473","5/20/09","3/30/10",43.2,3.29,"139.1","ER",NA,NA
+"ER-29","heteroclitus","Elizabeth River","M","WGS","SRS3332991","SAMN05930472","5/20/09","3/30/10",47.5,3.94,"173","ER",NA,NA
+"ER-28","heteroclitus","Elizabeth River","M","WGS","SRS3332990","SAMN05930471","5/20/09","3/30/10",46.3,3.6,"228.4","ER",NA,NA
+"ER-27","heteroclitus","Elizabeth River","M","WGS","SRS3332989","SAMN05930470","5/20/09","3/30/10",49.9,3.86,"94.4","ER",NA,NA
+"ER-26","heteroclitus","Elizabeth River","M","WGS","SRS3332988","SAMN05930469","5/20/09","3/30/10",52.8,5.81,"172.5","ER",NA,NA
+"ER-25","heteroclitus","Elizabeth River","M","WGS","SRS3332995","SAMN05930468","5/20/09","3/30/10",48.3,3.79,"72.5","ER",NA,NA
+"ER-24","heteroclitus","Elizabeth River","M","WGS","SRS3332993","SAMN05930467","5/20/09","3/30/10",43,3.18,"213.1","ER",NA,NA
+"ER-23","heteroclitus","Elizabeth River","M","WGS","SRS3332994","SAMN05930466","5/20/09","3/30/10",45.5,3.65,"142.3","ER",NA,NA
+"ER-22","heteroclitus","Elizabeth River","M","WGS","SRS3332992","SAMN05930465","5/20/09","3/30/10",55.8,6.8,"186.2","ER",NA,NA
+"ER-21","heteroclitus","Elizabeth River","M","WGS","SRS3332987","SAMN05930464","5/20/09","3/30/10",47,3.69,"137.1","ER",NA,NA
+"ER-20","heteroclitus","Elizabeth River","M","WGS","SRS3332986","SAMN05930463","5/20/09","3/30/10",49.1,4.24,"175.4","ER",NA,NA
+"ER-19","heteroclitus","Elizabeth River","M","WGS","SRS3333014","SAMN05930462","5/20/09","3/30/10",50.7,4.22,"228.4","ER",NA,NA
+"ER-18","heteroclitus","Elizabeth River","M","WGS","SRS3333015","SAMN05930461","5/20/09","3/30/10",45.2,3.36,"284.5","ER",NA,NA
+"ER-17","heteroclitus","Elizabeth River","M","WGS","SRS3333012","SAMN05930460","5/20/09","3/30/10",47.5,3.14,"62.1","ER",NA,NA
+"ER-16","heteroclitus","Elizabeth River","M","WGS","SRS3333013","SAMN05930459","5/20/09","3/30/10",54.8,4.27,"101.8","ER",NA,NA
+"ER-15","heteroclitus","Elizabeth River","M","WGS","SRS3333011","SAMN05930458","5/20/09","3/30/10",52.4,5.68,"108.3","ER",NA,NA
+"ER-14","heteroclitus","Elizabeth River","M","WGS","SRS3333077","SAMN05930457","5/20/09","3/30/10",44.6,2.7,"245.3","ER",NA,NA
+"ER-13","heteroclitus","Elizabeth River","M","WGS","SRS3333009","SAMN05930456","5/20/09","3/30/10",48.7,4.9,"118.8","ER",NA,NA
+"ER-12","heteroclitus","Elizabeth River","M","WGS","SRS3333010","SAMN05930455","5/20/09","3/30/10",39.4,2.64,"64.1","ER",NA,NA
+"ER-11","heteroclitus","Elizabeth River","M","WGS","SRS3333017","SAMN05930454","5/20/09","3/30/10",49.2,4.76,"62.4","ER",NA,NA
+"BP-9","heteroclitus","Bridgeport","F","WGS","SRS1771132","SAMN05930453","10/1/08","12/17/08",54.6,NA,"116.72","BP",NA,NA
+"BP-8","heteroclitus","Bridgeport","M","WGS","SRS1771021","SAMN05930452","10/1/08","12/17/08",57.1,NA,"78.23","BP",NA,NA
+"BP-7","heteroclitus","Bridgeport","M","WGS","SRS1771020","SAMN05930451","10/1/08","12/17/08",55.5,NA,"115.52","BP",NA,NA
+"BP-6","heteroclitus","Bridgeport","M","WGS","SRS1771066","SAMN05930450","10/1/08","12/17/08",49.2,NA,"129.55","BP",NA,NA
+"BP-5","heteroclitus","Bridgeport","F","WGS","SRS1771067","SAMN05930449","10/1/08","12/17/08",52.4,NA,"244.42","BP",NA,NA
+"BP-53","heteroclitus","Bridgeport","M","WGS","SRS1771068","SAMN05930448","10/1/08","",56.8,NA,"147.06","BP",NA,NA
+"BP-52","heteroclitus","Bridgeport","M","WGS","SRS1771069","SAMN05930447","10/1/08","",65.2,NA,"216.26","BP",NA,NA
+"BP-51","heteroclitus","Bridgeport","M","WGS","SRS1771062","SAMN05930446","10/1/08","",62.4,NA,"267.81","BP",NA,NA
+"BP-50","heteroclitus","Bridgeport","M","WGS","SRS1771063","SAMN05930445","10/1/08","",55.3,NA,"264.67","BP",NA,NA
+"BP-4","heteroclitus","Bridgeport","F","WGS","SRS1771064","SAMN05930444","10/1/08","12/17/08",55.4,NA,"189.31","BP",NA,NA
+"BP-49","heteroclitus","Bridgeport","M","WGS","SRS1771065","SAMN05930443","10/1/08","",62.3,NA,"198.45","BP",NA,NA
+"BP-48","heteroclitus","Bridgeport","M","WGS","SRS1771060","SAMN05930442","10/1/08","",49.8,NA,"226.72","BP",NA,NA
+"BP-47","heteroclitus","Bridgeport","F","WGS","SRS1771061","SAMN05930441","10/1/08","",56.2,NA,"173.35","BP",NA,NA
+"BP-46","heteroclitus","Bridgeport","M","WGS","SRS1771102","SAMN05930440","10/1/08","",49.9,NA,"162.78","BP",NA,NA
+"BP-45","heteroclitus","Bridgeport","F","WGS","SRS1771101","SAMN05930439","10/1/08","",59.8,NA,"194.55","BP",NA,NA
+"BP-44","heteroclitus","Bridgeport","M","WGS","SRS1771100","SAMN05930438","10/1/08","",46,NA,"140.53","BP",NA,NA
+"BP-43","heteroclitus","Bridgeport","F","WGS","SRS1771099","SAMN05930437","10/1/08","",51,NA,"171.29","BP",NA,NA
+"BP-42","heteroclitus","Bridgeport","M","WGS","SRS1771106","SAMN05930436","10/1/08","",48.4,NA,"127.32","BP",NA,NA
+"BP-41","heteroclitus","Bridgeport","M","WGS","SRS1771105","SAMN05930435","10/1/08","",48.8,NA,"161.78","BP",NA,NA
+"BP-40","heteroclitus","Bridgeport","F","WGS","SRS1771104","SAMN05930434","10/1/08","",56.1,NA,"216.10","BP",NA,NA
+"BP-3","heteroclitus","Bridgeport","F","WGS","SRS1771103","SAMN05930433","10/1/08","12/17/08",54.3,NA,"116.29","BP",NA,NA
+"BP-39","heteroclitus","Bridgeport","F","WGS","SRS1771098","SAMN05930432","10/1/08","",56.6,NA,"213.57","BP",NA,NA
+"BP-38","heteroclitus","Bridgeport","F","WGS","SRS1771097","SAMN05930431","10/1/08","",55,NA,"153.79","BP",NA,NA
+"BP-34","heteroclitus","Bridgeport","F","WGS","SRS1770972","SAMN05930430","10/1/08","12/18/08",55.7,NA,"129.72","BP",NA,NA
+"BP-33","heteroclitus","Bridgeport","F","WGS","SRS1770973","SAMN05930429","10/1/08","12/18/08",54.6,NA,"164.13","BP",NA,NA
+"BP-32","heteroclitus","Bridgeport","M","WGS","SRS1770970","SAMN05930428","10/1/08","12/18/08",61,NA,"209.56","BP",NA,NA
+"BP-31","heteroclitus","Bridgeport","F","WGS","SRS1770971","SAMN05930427","10/1/08","12/18/08",50.2,NA,"109.23","BP",NA,NA
+"BP-30","heteroclitus","Bridgeport","F","WGS","SRS1770976","SAMN05930426","10/1/08","12/18/08",59.1,NA,"139.37","BP",NA,NA
+"BP-2","heteroclitus","Bridgeport","F","WGS","SRS1770977","SAMN05930425","10/1/08","12/17/08",50.7,NA,"102.40","BP",NA,NA
+"BP-29","heteroclitus","Bridgeport","F","WGS","SRS1770974","SAMN05930424","10/1/08","12/18/08",66.5,NA,"237.63","BP",NA,NA
+"BP-28","heteroclitus","Bridgeport","M","WGS","SRS1770975","SAMN05930423","10/1/08","12/18/08",49.8,NA,"194.00","BP",NA,NA
+"BP-27","heteroclitus","Bridgeport","M","WGS","SRS1770978","SAMN05930422","10/1/08","12/18/08",62,NA,"153.46","BP",NA,NA
+"BP-26","heteroclitus","Bridgeport","M","WGS","SRS1770979","SAMN05930421","10/1/08","12/18/08",49.4,NA,"178.96","BP",NA,NA
+"BP-25","heteroclitus","Bridgeport","F","WGS","SRS1771001","SAMN05930420","10/1/08","12/18/08",56.4,NA,"139.27","BP",NA,NA
+"BP-24","heteroclitus","Bridgeport","F","WGS","SRS1771000","SAMN05930419","10/1/08","12/18/08",56,NA,"233.83","BP",NA,NA
+"BP-23","heteroclitus","Bridgeport","F","WGS","SRS1771003","SAMN05930418","10/1/08","12/18/08",50.9,NA,"212.51","BP",NA,NA
+"BP-22","heteroclitus","Bridgeport","F","WGS","SRS1771002","SAMN05930417","10/1/08","12/18/08",48.1,NA,"239.38","BP",NA,NA
+"BP-21","heteroclitus","Bridgeport","M","WGS","SRS1771005","SAMN05930416","10/1/08","12/18/08",49.7,NA,"194.96","BP",NA,NA
+"BP-20","heteroclitus","Bridgeport","M","WGS","SRS1771004","SAMN05930415","10/1/08","12/18/08",50.3,NA,"184.73","BP",NA,NA
+"BP-1","heteroclitus","Bridgeport","F","WGS","SRS1771007","SAMN05930414","10/1/08","12/17/08",49.9,NA,"132.36","BP",NA,NA
+"BP-19","heteroclitus","Bridgeport","F","WGS","SRS1771006","SAMN05930413","10/1/08","12/18/08",57,NA,"257.10","BP",NA,NA
+"BP-18","heteroclitus","Bridgeport","F","WGS","SRS1771010","SAMN05930412","10/1/08","12/18/08",52.9,NA,"213.50","BP",NA,NA
+"BP-17","heteroclitus","Bridgeport","M","WGS","SRS1771008","SAMN05930411","10/1/08","12/17/08",50.5,NA,"98.41","BP",NA,NA
+"BP-16","heteroclitus","Bridgeport","M","WGS","SRS1771136","SAMN05930410","10/1/08","12/17/08",49.3,NA,"168.54","BP",NA,NA
+"BP-15","heteroclitus","Bridgeport","M","WGS","SRS1771137","SAMN05930409","10/1/08","12/17/08",66.1,NA,"138.99","BP",NA,NA
+"BP-14","heteroclitus","Bridgeport","F","WGS","SRS1771139","SAMN05930408","10/1/08","12/17/08",55.6,NA,"147.65","BP",NA,NA
+"BP-13","heteroclitus","Bridgeport","M","WGS","SRS1771138","SAMN05930407","10/1/08","12/17/08",48.2,NA,"188.10","BP",NA,NA
+"BP-12","heteroclitus","Bridgeport","F","WGS","SRS1771140","SAMN05930406","10/1/08","12/17/08",49,NA,"73.56","BP",NA,NA
+"BP-11","heteroclitus","Bridgeport","M","WGS","SRS1771141","SAMN05930405","10/1/08","12/17/08",49.2,NA,"84.72","BP",NA,NA
+"BP-10","heteroclitus","Bridgeport","M","WGS","SRS1771143","SAMN05930404","10/1/08","12/17/08",47.8,NA,"100.47","BP",NA,NA
+"BI-9","heteroclitus"," Block Island","M","WGS","SRS1771142","SAMN05930403","8/4/11","8/8/11",85.5,8.68,"117.75","BI",NA,NA
+"BI-8","heteroclitus"," Block Island","M","WGS","SRS1771128","SAMN05930402","8/4/11","8/8/11",61.6,2.92,"81.27","BI",NA,NA
+"BI-7","heteroclitus"," Block Island","M","WGS","SRS1771130","SAMN05930401","8/4/11","8/8/11",66.8,3.9,"117.00","BI",NA,NA
+"BI-6","heteroclitus"," Block Island","M","WGS","SRS1770965","SAMN05930400","8/4/11","8/8/11",65.7,3.7,"163.10","BI",NA,NA
+"BI-5","heteroclitus"," Block Island","M","WGS","SRS1770966","SAMN05930399","8/4/11","8/8/11",71.6,5.05,"120.25","BI",NA,NA
+"BI-56","heteroclitus"," Block Island","F","WGS","SRS1770963","SAMN05930398","8/4/11","8/17/11",84.5,8.4,"202.15","BI",NA,NA
+"BI-55","heteroclitus"," Block Island","F","WGS","SRS1770964","SAMN05930397","8/4/11","8/17/11",51.4,1.48,"81.95","BI",NA,NA
+"BI-54","heteroclitus"," Block Island","F","WGS","SRS1770962","SAMN05930396","8/4/11","8/17/11",53.6,1.44,"81.10","BI",NA,NA
+"BI-53","heteroclitus"," Block Island","F","WGS","SRS1770961","SAMN05930395","8/4/11","8/17/11",80.1,6.16,"out of range","BI",NA,NA
+"BI-52","heteroclitus"," Block Island","F","WGS","SRS1770959","SAMN05930394","8/4/11","8/17/11",74.5,5.61,"261.57","BI",NA,NA
+"BI-50","heteroclitus"," Block Island","F","WGS","SRS1770960","SAMN05930393","8/4/11","8/10/11",45.5,1.43,"67.50","BI",NA,NA
+"BI-49","heteroclitus"," Block Island","F","WGS","SRS1770968","SAMN05930392","8/4/11","8/10/11",48.4,1.43,"101.80","BI",NA,NA
+"BI-48","heteroclitus"," Block Island","F","WGS","SRS1770967","SAMN05930391","8/4/11","8/10/11",48.4,1.51,"134.15","BI",NA,NA
+"BI-47","heteroclitus"," Block Island","F","WGS","SRS1771079","SAMN05930390","8/4/11","8/10/11",39.2,1.16,"137.90","BI",NA,NA
+"BI-46","heteroclitus"," Block Island","F","WGS","SRS1771080","SAMN05930389","8/4/11","8/10/11",51.5,2.19,"102.00","BI",NA,NA
+"BI-45","heteroclitus"," Block Island","F","WGS","SRS1771077","SAMN05930388","8/4/11","8/10/11",46.1,1.87,"212.65","BI",NA,NA
+"BI-44","heteroclitus"," Block Island","F","WGS","SRS1771078","SAMN05930387","8/4/11","8/10/11",51,1.96,"159.50","BI",NA,NA
+"BI-43","heteroclitus"," Block Island","F","WGS","SRS1771075","SAMN05930386","8/4/11","8/10/11",43.5,1.45,"177.97","BI",NA,NA
+"BI-42","heteroclitus"," Block Island","F","WGS","SRS1771076","SAMN05930385","8/4/11","8/10/11",54.9,20.8,"91.90","BI",NA,NA
+"BI-41","heteroclitus"," Block Island","F","WGS","SRS1771073","SAMN05930384","8/4/11","8/10/11",52.5,2.31,"99.70","BI",NA,NA
+"BI-40","heteroclitus"," Block Island","F","WGS","SRS1771074","SAMN05930383","8/4/11","8/10/11",66.6,4.24,"63.07","BI",NA,NA
+"BI-39","heteroclitus"," Block Island","F","WGS","SRS1771071","SAMN05930382","8/4/11","8/10/11",51.5,1.83,"60.10","BI",NA,NA
+"BI-38","heteroclitus"," Block Island","F","WGS","SRS1771072","SAMN05930381","8/4/11","8/10/11",47.6,1.55,"135.90","BI",NA,NA
+"BI-37","heteroclitus"," Block Island","F","WGS","SRS1771115","SAMN05930380","8/4/11","8/10/11",93.8,15.38,"136.20","BI",NA,NA
+"BI-36","heteroclitus"," Block Island","F","WGS","SRS1771114","SAMN05930379","8/4/11","8/10/11",76.1,7.88,"153.87","BI",NA,NA
+"BI-35","heteroclitus"," Block Island","F","WGS","SRS1771119","SAMN05930378","8/4/11","8/10/11",91.5,11.8,"215.50","BI",NA,NA
+"BI-34","heteroclitus"," Block Island","F","WGS","SRS1771116","SAMN05930377","8/4/11","8/10/11",85.1,9.38,"170.30","BI",NA,NA
+"BI-33","heteroclitus"," Block Island","F","WGS","SRS1771110","SAMN05930376","8/4/11","8/10/11",89.1,12.3,"183.30","BI",NA,NA
+"BI-32","heteroclitus"," Block Island","F","WGS","SRS1771111","SAMN05930375","8/4/11","8/10/11",68.3,5.09,"93.95","BI",NA,NA
+"BI-30","heteroclitus"," Block Island","M","WGS","SRS1771113","SAMN05930374","8/4/11","8/8/11",83,6.45,"164.10","BI",NA,NA
+"BI-2","heteroclitus"," Block Island","M","WGS","SRS1771112","SAMN05930373","8/4/11","8/8/11",78.3,6.89,"119.85","BI",NA,NA
+"BI-29","heteroclitus"," Block Island","M","WGS","SRS1771108","SAMN05930372","8/4/11","8/8/11",73.5,5.12,"163.55","BI",NA,NA
+"BI-28","heteroclitus"," Block Island","M","WGS","SRS1771109","SAMN05930371","8/4/11","8/8/11",76.1,5.39,"148.33","BI",NA,NA
+"BI-27","heteroclitus"," Block Island","M","WGS","SRS1771048","SAMN05930370","8/4/11","8/8/11",64.6,3.88,"179.85","BI",NA,NA
+"BI-26","heteroclitus"," Block Island","M","WGS","SRS1771049","SAMN05930369","8/4/11","8/8/11",66.5,4.08,"94.60","BI",NA,NA
+"BI-25","heteroclitus"," Block Island","M","WGS","SRS1771050","SAMN05930368","8/4/11","8/8/11",92.2,10.5,"147.47","BI",NA,NA
+"BI-24","heteroclitus"," Block Island","M","WGS","SRS1771051","SAMN05930367","8/4/11","8/8/11",82.1,8.1,"105.90","BI",NA,NA
+"BI-23","heteroclitus"," Block Island","M","WGS","SRS1771044","SAMN05930366","8/4/11","8/8/11",61.5,2.93,"167.40","BI",NA,NA
+"BI-22","heteroclitus"," Block Island","M","WGS","SRS1771046","SAMN05930365","8/4/11","8/8/11",68,4.26,"118.95","BI",NA,NA
+"BI-21","heteroclitus"," Block Island","M","WGS","SRS1771045","SAMN05930364","8/4/11","8/8/11",80.3,6.5,"122.65","BI",NA,NA
+"BI-20","heteroclitus"," Block Island","M","WGS","SRS1771047","SAMN05930363","8/4/11","8/8/11",90.5,10.32,"157.03","BI",NA,NA
+"BI-19","heteroclitus"," Block Island","M","WGS","SRS1771056","SAMN05930362","8/4/11","8/8/11",77.2,5.8,"157.87","BI",NA,NA
+"BI-17","heteroclitus"," Block Island","M","WGS","SRS1771057","SAMN05930361","8/4/11","8/8/11",85.1,8.09,"140.33","BI",NA,NA
+"BI-15","heteroclitus"," Block Island","M","WGS","SRS1771095","SAMN05930360","8/4/11","8/8/11",NA,5.24,"174.97","BI",NA,NA
+"BI-14","heteroclitus"," Block Island","M","WGS","SRS1771093","SAMN05930359","8/4/11","8/8/11",84.6,9.05,"134.00","BI",NA,NA
+"BI-12","heteroclitus"," Block Island","M","WGS","SRS1771092","SAMN05930358","8/4/11","8/8/11",64.9,3.57,"131.83","BI",NA,NA
+"BI-11","heteroclitus"," Block Island","M","WGS","SRS1771091","SAMN05930357","8/4/11","8/8/11",57.2,3.52,"124.03","BI",NA,NA
+"BI-10","heteroclitus"," Block Island","M","WGS","SRS1771096","SAMN05930356","8/4/11","8/8/11",77.1,6.21,"179.27","BI",NA,NA
+"BU000464","grandis","San_Jacinto_State_Park","F","WGS","SRS3342782","SAMN09267759",NA,NA,NA,NA,NA,"SJSP","BU000464_SJ",NA
+"BU000463","grandis","San_Jacinto_State_Park","F","WGS","SRS3342781","SAMN09267758",NA,NA,NA,NA,NA,"SJSP","BU000463_SJ",NA
+"BU000460","grandis","San_Jacinto_State_Park","F","WGS","SRS3342780","SAMN09267757",NA,NA,NA,NA,NA,"SJSP","BU000460_SJ",NA
+"BU000458","grandis","San_Jacinto_State_Park","F","WGS","SRS3342779","SAMN09267756",NA,NA,NA,NA,NA,"SJSP","BU000458_SJ",NA
+"BU000454","grandis","San_Jacinto_State_Park","F","WGS","SRS3342786","SAMN09267755",NA,NA,NA,NA,NA,"SJSP","BU000454_SJ",NA
+"BU000451","grandis","San_Jacinto_State_Park","F","WGS","SRS3342785","SAMN09267754",NA,NA,NA,NA,NA,"SJSP","BU000451_SJ",NA
+"BU000449","grandis","San_Jacinto_State_Park","F","WGS","SRS3342789","SAMN09267753",NA,NA,NA,NA,NA,"SJSP","BU000449_SJ",NA
+"BU000446","grandis","San_Jacinto_State_Park","F","WGS","SRS3342755","SAMN09267752",NA,NA,NA,NA,NA,"SJSP","BU000446_SJ",NA
+"BU000444","grandis","San_Jacinto_State_Park","F","WGS","SRS3342902","SAMN09267751",NA,NA,NA,NA,NA,"SJSP","BU000444_SJ",NA
+"BU000443","grandis","San_Jacinto_State_Park","F","WGS","SRS3342901","SAMN09267750",NA,NA,NA,NA,NA,"SJSP","BU000443_SJ",NA
+"BU000442","grandis","San_Jacinto_State_Park","F","WGS","SRS3342896","SAMN09267749",NA,NA,NA,NA,NA,"SJSP","BU000442_SJ",NA
+"BU000441","grandis","San_Jacinto_State_Park","F","WGS","SRS3342879","SAMN09267748",NA,NA,NA,NA,NA,"SJSP","BU000441_SJ",NA
+"BU000439","grandis","San_Jacinto_State_Park","M","WGS","SRS3342893","SAMN09267747",NA,NA,NA,NA,NA,"SJSP","BU000439_SJ",NA
+"BU000433","grandis","San_Jacinto_State_Park","M","WGS","SRS3342894","SAMN09267746",NA,NA,NA,NA,NA,"SJSP","BU000433_SJ",NA
+"BU000432","grandis","San_Jacinto_State_Park","M","WGS","SRS3342899","SAMN09267745",NA,NA,NA,NA,NA,"SJSP","BU000432_SJ",NA
+"BU000431","grandis","San_Jacinto_State_Park","M","WGS","SRS3342900","SAMN09267744",NA,NA,NA,NA,NA,"SJSP","BU000431_SJ",NA
+"BU000427","grandis","San_Jacinto_State_Park","M","WGS","SRS3342897","SAMN09267743",NA,NA,NA,NA,NA,"SJSP","BU000427_SJ",NA
+"BU000426","grandis","San_Jacinto_State_Park","M","WGS","SRS3342898","SAMN09267742",NA,NA,NA,NA,NA,"SJSP","BU000426_SJ",NA
+"BU000425","grandis","San_Jacinto_State_Park","M","WGS","SRS3342865","SAMN09267741",NA,NA,NA,NA,NA,"SJSP","BU000425_SJ",NA
+"BU000424","grandis","San_Jacinto_State_Park","M","WGS","SRS3342864","SAMN09267740",NA,NA,NA,NA,NA,"SJSP","BU000424_SJ",NA
+"BU000421","grandis","San_Jacinto_State_Park","M","WGS","SRS3342856","SAMN09267739",NA,NA,NA,NA,NA,"SJSP","BU000421_SJ",NA
+"BU000420","grandis","San_Jacinto_State_Park","M","WGS","SRS3342855","SAMN09267738",NA,NA,NA,NA,NA,"SJSP","BU000420_SJ",NA
+"BU000419","grandis","San_Jacinto_State_Park","M","WGS","SRS3342858","SAMN09267737",NA,NA,NA,NA,NA,"SJSP","BU000419_SJ",NA
+"BU000418","grandis","San_Jacinto_State_Park","M","WGS","SRS3342857","SAMN09267736",NA,NA,NA,NA,NA,"SJSP","BU000418_SJ",NA
+"BU000417","grandis","Buffalo_Bayou","F","WGS","SRS3342859","SAMN09267735",NA,NA,NA,NA,NA,"BB","BU000417_BB",NA
+"BU000416","grandis","Buffalo_Bayou","F","WGS","SRS3342860","SAMN09267734",NA,NA,NA,NA,NA,"BB","BU000416_BB",NA
+"BU000415","grandis","Buffalo_Bayou","F","WGS","SRS3342861","SAMN09267733",NA,NA,NA,NA,NA,"BB","BU000415_BB",NA
+"BU000414","grandis","Buffalo_Bayou","F","WGS","SRS3342862","SAMN09267732",NA,NA,NA,NA,NA,"BB","BU000414_BB",NA
+"BU000413","grandis","Buffalo_Bayou","F","WGS","SRS3342668","SAMN09267731",NA,NA,NA,NA,NA,"BB","BU000413_BB",NA
+"BU000411","grandis","Buffalo_Bayou","F","WGS","SRS3342671","SAMN09267730",NA,NA,NA,NA,NA,"BB","BU000411_BB",NA
+"BU000410","grandis","Buffalo_Bayou","F","WGS","SRS3342660","SAMN09267729",NA,NA,NA,NA,NA,"BB","BU000410_BB",NA
+"BU000409","grandis","Buffalo_Bayou","F","WGS","SRS3342661","SAMN09267728",NA,NA,NA,NA,NA,"BB","BU000409_BB",NA
+"BU000408","grandis","Buffalo_Bayou","F","WGS","SRS3342662","SAMN09267727",NA,NA,NA,NA,NA,"BB","BU000408_BB",NA
+"BU000407","grandis","Buffalo_Bayou","F","WGS","SRS3342663","SAMN09267726",NA,NA,NA,NA,NA,"BB","BU000407_BB",NA
+"BU000406","grandis","Buffalo_Bayou","F","WGS","SRS3342758","SAMN09267725",NA,NA,NA,NA,NA,"BB","BU000406_BB",NA
+"BU000405","grandis","Buffalo_Bayou","F","WGS","SRS3342717","SAMN09267724",NA,NA,NA,NA,NA,"BB","BU000405_BB",NA
+"BU000403","grandis","Buffalo_Bayou","M","WGS","SRS3342666","SAMN09267723",NA,NA,NA,NA,NA,"BB","BU000403_BB",NA
+"BU000402","grandis","Buffalo_Bayou","M","WGS","SRS3342667","SAMN09267722",NA,NA,NA,NA,NA,"BB","BU000402_BB",NA
+"BU000400","grandis","Buffalo_Bayou","M","WGS","SRS3342936","SAMN09267721",NA,NA,NA,NA,NA,"BB","BU000400_BB",NA
+"BU000398","grandis","Buffalo_Bayou","M","WGS","SRS3342935","SAMN09267720",NA,NA,NA,NA,NA,"BB","BU000398_BB",NA
+"BU000397","grandis","Buffalo_Bayou","M","WGS","SRS3342933","SAMN09267719",NA,NA,NA,NA,NA,"BB","BU000397_BB",NA
+"BU000393","grandis","Baytown_Nature_Park","F","WGS","SRS3342934","SAMN09267718",NA,NA,NA,NA,NA,"BNP","BU000393_BNP",NA
+"BU000392","grandis","Buffalo_Bayou","M","WGS","SRS3342932","SAMN09267717",NA,NA,NA,NA,NA,"BB","BU000392_BB",NA
+"BU000391","grandis","Buffalo_Bayou","M","WGS","SRS3342930","SAMN09267716",NA,NA,NA,NA,NA,"BB","BU000391_BB",NA
+"BU000390","grandis","Buffalo_Bayou","M","WGS","SRS3342929","SAMN09267715",NA,NA,NA,NA,NA,"BB","BU000390_BB",NA
+"BU000386","grandis","Buffalo_Bayou","M","WGS","SRS3342928","SAMN09267714",NA,NA,NA,NA,NA,"BB","BU000386_BB",NA
+"BU000384","grandis","Buffalo_Bayou","M","WGS","SRS3342927","SAMN09267713",NA,NA,NA,NA,NA,"BB","BU000384_BB",NA
+"BU000383","grandis","Buffalo_Bayou","M","WGS","SRS3342926","SAMN09267712",NA,NA,NA,NA,NA,"BB","BU000383_BB",NA
+"BU000382","grandis","Buffalo_Bayou","M","WGS","SRS3342718","SAMN09267711",NA,NA,NA,NA,NA,"BB","BU000382_BB",NA
+"BU000375","grandis","Baytown_Nature_Park","F","WGS","SRS3342719","SAMN09267710",NA,NA,NA,NA,NA,"BNP","BU000375_BNP",NA
+"BU000372","grandis","Baytown_Nature_Park","F","WGS","SRS3342725","SAMN09267709",NA,NA,NA,NA,NA,"BNP","BU000372_BNP",NA
+"BU000367","grandis","Baytown_Nature_Park","F","WGS","SRS3342727","SAMN09267708",NA,NA,NA,NA,NA,"BNP","BU000367_BNP",NA
+"BU000366","grandis","Baytown_Nature_Park","F","WGS","SRS3342726","SAMN09267707",NA,NA,NA,NA,NA,"BNP","BU000366_BNP",NA
+"BU000364","grandis","Baytown_Nature_Park","F","WGS","SRS3342728","SAMN09267706",NA,NA,NA,NA,NA,"BNP","BU000364_BNP",NA
+"BU000362","grandis","Baytown_Nature_Park","F","WGS","SRS3342723","SAMN09267705",NA,NA,NA,NA,NA,"BNP","BU000362_BNP",NA
+"BU000361","grandis","Baytown_Nature_Park","F","WGS","SRS3342724","SAMN09267704",NA,NA,NA,NA,NA,"BNP","BU000361_BNP",NA
+"BU000359","grandis","Baytown_Nature_Park","F","WGS","SRS3342721","SAMN09267703",NA,NA,NA,NA,NA,"BNP","BU000359_BNP",NA
+"BU000358","grandis","Baytown_Nature_Park","F","WGS","SRS3342722","SAMN09267702",NA,NA,NA,NA,NA,"BNP","BU000358_BNP",NA
+"BU000357","grandis","Baytown_Nature_Park","F","WGS","SRS3342895","SAMN09267701",NA,NA,NA,NA,NA,"BNP","BU000357_BNP",NA
+"BU000356","grandis","Baytown_Nature_Park","F","WGS","SRS3342832","SAMN09267700",NA,NA,NA,NA,NA,"BNP","BU000356_BNP",NA
+"BU000355","grandis","Baytown_Nature_Park","F","WGS","SRS3342695","SAMN09267699",NA,NA,NA,NA,NA,"BNP","BU000355_BNP",NA
+"BU000354","grandis","Baytown_Nature_Park","F","WGS","SRS3342694","SAMN09267698",NA,NA,NA,NA,NA,"BNP","BU000354_BNP",NA
+"BU000352","grandis","Baytown_Nature_Park","F","WGS","SRS3342697","SAMN09267697",NA,NA,NA,NA,NA,"BNP","BU000352_BNP",NA
+"BU000351","grandis","Baytown_Nature_Park","F","WGS","SRS3342696","SAMN09267696",NA,NA,NA,NA,NA,"BNP","BU000351_BNP",NA
+"BU000350","grandis","Baytown_Nature_Park","F","WGS","SRS3342691","SAMN09267695",NA,NA,NA,NA,NA,"BNP","BU000350_BNP",NA
+"BU000349","grandis","Baytown_Nature_Park","F","WGS","SRS3342690","SAMN09267694",NA,NA,NA,NA,NA,"BNP","BU000349_BNP",NA
+"BU000348","grandis","Baytown_Nature_Park","F","WGS","SRS3342917","SAMN09267693",NA,NA,NA,NA,NA,"BNP","BU000348_BNP",NA
+"BU000347","grandis","Baytown_Nature_Park","F","WGS","SRS3342915","SAMN09267692",NA,NA,NA,NA,NA,"BNP","BU000347_BNP",NA
+"BU000346","grandis","Baytown_Nature_Park","F","WGS","SRS3342813","SAMN09267691",NA,NA,NA,NA,NA,"BNP","BU000346_BNP",NA
+"BU000345","grandis","Baytown_Nature_Park","F","WGS","SRS3342814","SAMN09267690",NA,NA,NA,NA,NA,"BNP","BU000345_BNP",NA
+"BU000344","grandis","Baytown_Nature_Park","F","WGS","SRS3342807","SAMN09267689",NA,NA,NA,NA,NA,"BNP","BU000344_BNP",NA
+"BU000343","grandis","Baytown_Nature_Park","F","WGS","SRS3342809","SAMN09267688",NA,NA,NA,NA,NA,"BNP","BU000343_BNP",NA
+"BU000341","grandis","Baytown_Nature_Park","M","WGS","SRS3342808","SAMN09267687",NA,NA,NA,NA,NA,"BNP","BU000341_BNP",NA
+"BU000340","grandis","Baytown_Nature_Park","M","WGS","SRS3342810","SAMN09267686",NA,NA,NA,NA,NA,"BNP","BU000340_BNP",NA
+"BU000339","grandis","Baytown_Nature_Park","M","WGS","SRS3342803","SAMN09267685",NA,NA,NA,NA,NA,"BNP","BU000339_BNP",NA
+"BU000338","grandis","Baytown_Nature_Park","M","WGS","SRS3342805","SAMN09267684",NA,NA,NA,NA,NA,"BNP","BU000338_BNP",NA
+"BU000337","grandis","Baytown_Nature_Park","M","WGS","SRS3342804","SAMN09267683",NA,NA,NA,NA,NA,"BNP","BU000337_BNP",NA
+"BU000336","grandis","Baytown_Nature_Park","M","WGS","SRS3342806","SAMN09267682",NA,NA,NA,NA,NA,"BNP","BU000336_BNP",NA
+"BU000335","grandis","Baytown_Nature_Park","M","WGS","SRS3342769","SAMN09267681",NA,NA,NA,NA,NA,"BNP","BU000335_BNP",NA
+"BU000334","grandis","Baytown_Nature_Park","M","WGS","SRS3342767","SAMN09267680",NA,NA,NA,NA,NA,"BNP","BU000334_BNP",NA
+"BU000333","grandis","Baytown_Nature_Park","M","WGS","SRS3342764","SAMN09267679",NA,NA,NA,NA,NA,"BNP","BU000333_BNP",NA
+"BU000332","grandis","Baytown_Nature_Park","M","WGS","SRS3342761","SAMN09267678",NA,NA,NA,NA,NA,"BNP","BU000332_BNP",NA
+"BU000331","grandis","Baytown_Nature_Park","M","WGS","SRS3342760","SAMN09267677",NA,NA,NA,NA,NA,"BNP","BU000331_BNP",NA
+"BU000330","grandis","Baytown_Nature_Park","M","WGS","SRS3342759","SAMN09267676",NA,NA,NA,NA,NA,"BNP","BU000330_BNP",NA
+"BU000329","grandis","Baytown_Nature_Park","M","WGS","SRS3342766","SAMN09267675",NA,NA,NA,NA,NA,"BNP","BU000329_BNP",NA
+"BU000328","grandis","Baytown_Nature_Park","M","WGS","SRS3342765","SAMN09267674",NA,NA,NA,NA,NA,"BNP","BU000328_BNP",NA
+"BU000327","grandis","Baytown_Nature_Park","M","WGS","SRS3342763","SAMN09267673",NA,NA,NA,NA,NA,"BNP","BU000327_BNP",NA
+"BU000326","grandis","Baytown_Nature_Park","M","WGS","SRS3342762","SAMN09267672",NA,NA,NA,NA,NA,"BNP","BU000326_BNP",NA
+"BU000325","grandis","Baytown_Nature_Park","M","WGS","SRS3342830","SAMN09267671",NA,NA,NA,NA,NA,"BNP","BU000325_BNP",NA
+"BU000324","grandis","Baytown_Nature_Park","M","WGS","SRS3342828","SAMN09267670",NA,NA,NA,NA,NA,"BNP","BU000324_BNP",NA
+"BU000323","grandis","Baytown_Nature_Park","M","WGS","SRS3342840","SAMN09267669",NA,NA,NA,NA,NA,"BNP","BU000323_BNP",NA
+"BU000322","grandis","Baytown_Nature_Park","M","WGS","SRS3342838","SAMN09267668",NA,NA,NA,NA,NA,"BNP","BU000322_BNP",NA
+"BU000321","grandis","Baytown_Nature_Park","M","WGS","SRS3342839","SAMN09267667",NA,NA,NA,NA,NA,"BNP","BU000321_BNP",NA
+"BU000320","grandis","Baytown_Nature_Park","M","WGS","SRS3342837","SAMN09267666",NA,NA,NA,NA,NA,"BNP","BU000320_BNP",NA
+"BU000319","grandis","Baytown_Nature_Park","M","WGS","SRS3342836","SAMN09267665",NA,NA,NA,NA,NA,"BNP","BU000319_BNP",NA
+"BU000318","grandis","Baytown_Nature_Park","M","WGS","SRS3342835","SAMN09267664",NA,NA,NA,NA,NA,"BNP","BU000318_BNP",NA
+"BU000272","grandis","Smith_Point","F","WGS","SRS3342834","SAMN09267663",NA,NA,NA,NA,NA,"SP","BU000272_SP",NA
+"BU000271","grandis","Smith_Point","F","WGS","SRS3342833","SAMN09267662",NA,NA,NA,NA,NA,"SP","BU000271_SP",NA
+"BU000270","grandis","Smith_Point","F","WGS","SRS3342875","SAMN09267661",NA,NA,NA,NA,NA,"SP","BU000270_SP",NA
+"BU000269","grandis","Smith_Point","F","WGS","SRS3342876","SAMN09267660",NA,NA,NA,NA,NA,"SP","BU000269_SP",NA
+"BU000266","grandis","Smith_Point","F","WGS","SRS3342866","SAMN09267659",NA,NA,NA,NA,NA,"SP","BU000266_SP",NA
+"BU000265","grandis","Smith_Point","F","WGS","SRS3342867","SAMN09267658",NA,NA,NA,NA,NA,"SP","BU000265_SP",NA
+"BU000264","grandis","Smith_Point","F","WGS","SRS3342868","SAMN09267657",NA,NA,NA,NA,NA,"SP","BU000264_SP",NA
+"BU000263","grandis","Smith_Point","F","WGS","SRS3342869","SAMN09267656",NA,NA,NA,NA,NA,"SP","BU000263_SP",NA
+"BU000262","grandis","Smith_Point","F","WGS","SRS3342870","SAMN09267655",NA,NA,NA,NA,NA,"SP","BU000262_SP",NA
+"BU000261","grandis","Smith_Point","F","WGS","SRS3342871","SAMN09267654",NA,NA,NA,NA,NA,"SP","BU000261_SP",NA
+"BU000260","grandis","Smith_Point","F","WGS","SRS3342872","SAMN09267653",NA,NA,NA,NA,NA,"SP","BU000260_SP",NA
+"BU000259","grandis","Smith_Point","F","WGS","SRS3342873","SAMN09267652",NA,NA,NA,NA,NA,"SP","BU000259_SP",NA
+"BU000257","grandis","Smith_Point","F","WGS","SRS3342882","SAMN09267651",NA,NA,NA,NA,NA,"SP","BU000257_SP",NA
+"BU000256","grandis","Smith_Point","F","WGS","SRS3342881","SAMN09267650",NA,NA,NA,NA,NA,"SP","BU000256_SP",NA
+"BU000255","grandis","Smith_Point","F","WGS","SRS3342892","SAMN09267649",NA,NA,NA,NA,NA,"SP","BU000255_SP",NA
+"BU000254","grandis","Smith_Point","F","WGS","SRS3342889","SAMN09267648",NA,NA,NA,NA,NA,"SP","BU000254_SP",NA
+"BU000253","grandis","Smith_Point","F","WGS","SRS3342891","SAMN09267647",NA,NA,NA,NA,NA,"SP","BU000253_SP",NA
+"BU000252","grandis","Smith_Point","F","WGS","SRS3342890","SAMN09267646",NA,NA,NA,NA,NA,"SP","BU000252_SP",NA
+"BU000250","grandis","Smith_Point","F","WGS","SRS3342887","SAMN09267645",NA,NA,NA,NA,NA,"SP","BU000250_SP",NA
+"BU000249","grandis","Smith_Point","F","WGS","SRS3342883","SAMN09267644",NA,NA,NA,NA,NA,"SP","BU000249_SP",NA
+"BU000248","grandis","Smith_Point","F","WGS","SRS3342888","SAMN09267643",NA,NA,NA,NA,NA,"SP","BU000248_SP",NA
+"BU000246","grandis","Smith_Point","F","WGS","SRS3342886","SAMN09267642",NA,NA,NA,NA,NA,"SP","BU000246_SP",NA
+"BU000245","grandis","Smith_Point","F","WGS","SRS3342914","SAMN09267641",NA,NA,NA,NA,NA,"SP","BU000245_SP",NA
+"BU000244","grandis","Smith_Point","F","WGS","SRS3342916","SAMN09267640",NA,NA,NA,NA,NA,"SP","BU000244_SP",NA
+"BU000242","grandis","Patrick_Bayou_B","F","WGS","SRS3342923","SAMN09267639",NA,NA,NA,NA,NA,"PB_B","BU000242_PB",NA
+"BU000237","grandis","Patrick_Bayou_B","F","WGS","SRS3342925","SAMN09267638",NA,NA,NA,NA,NA,"PB_B","BU000237_PB",NA
+"BU000235","grandis","Patrick_Bayou_B","F","WGS","SRS3342922","SAMN09267637",NA,NA,NA,NA,NA,"PB_B","BU000235_PB",NA
+"BU000234","grandis","Patrick_Bayou_B","F","WGS","SRS3342924","SAMN09267636",NA,NA,NA,NA,NA,"PB_B","BU000234_PB",NA
+"BU000233","grandis","Patrick_Bayou_B","F","WGS","SRS3342920","SAMN09267635",NA,NA,NA,NA,NA,"PB_B","BU000233_PB",NA
+"BU000231","grandis","Patrick_Bayou_B","F","WGS","SRS3342938","SAMN09267634",NA,NA,NA,NA,NA,"PB_B","BU000231_PB",NA
+"BU000230","grandis","Patrick_Bayou_B","F","WGS","SRS3342937","SAMN09267633",NA,NA,NA,NA,NA,"PB_B","BU000230_PB",NA
+"BU000229","grandis","Patrick_Bayou_B","F","WGS","SRS3342921","SAMN09267632",NA,NA,NA,NA,NA,"PB_B","BU000229_PB",NA
+"BU000228","grandis","Patrick_Bayou_B","F","WGS","SRS3342665","SAMN09267631",NA,NA,NA,NA,NA,"PB_B","BU000228_PB",NA
+"BU000227","grandis","Patrick_Bayou_B","F","WGS","SRS3342664","SAMN09267630",NA,NA,NA,NA,NA,"PB_B","BU000227_PB",NA
+"BU000226","grandis","Patrick_Bayou_B","F","WGS","SRS3342655","SAMN09267629",NA,NA,NA,NA,NA,"PB_B","BU000226_PB",NA
+"BU000225","grandis","Patrick_Bayou_B","F","WGS","SRS3342654","SAMN09267628",NA,NA,NA,NA,NA,"PB_B","BU000225_PB",NA
+"BU000223","grandis","Patrick_Bayou_B","F","WGS","SRS3342653","SAMN09267627",NA,NA,NA,NA,NA,"PB_B","BU000223_PB",NA
+"BU000219","grandis","Patrick_Bayou_B","F","WGS","SRS3342652","SAMN09267626",NA,NA,NA,NA,NA,"PB_B","BU000219_PB",NA
+"BU000217","grandis","Patrick_Bayou_B","F","WGS","SRS3342659","SAMN09267625",NA,NA,NA,NA,NA,"PB_B","BU000217_PB",NA
+"BU000215","grandis","Patrick_Bayou_B","F","WGS","SRS3342658","SAMN09267624",NA,NA,NA,NA,NA,"PB_B","BU000215_PB",NA
+"BU000214","grandis","Patrick_Bayou_B","F","WGS","SRS3342657","SAMN09267623",NA,NA,NA,NA,NA,"PB_B","BU000214_PB",NA
+"BU000213","grandis","Patrick_Bayou_B","M","WGS","SRS3342656","SAMN09267622",NA,NA,NA,NA,NA,"PB_B","BU000213_PB",NA
+"BU000212","grandis","Patrick_Bayou_B","M","WGS","SRS3342692","SAMN09267621",NA,NA,NA,NA,NA,"PB_B","BU000212_PB",NA
+"BU000211","grandis","Patrick_Bayou_B","M","WGS","SRS3342693","SAMN09267620",NA,NA,NA,NA,NA,"PB_B","BU000211_PB",NA
+"BU000210","grandis","Patrick_Bayou_B","M","WGS","SRS3342686","SAMN09267619",NA,NA,NA,NA,NA,"PB_B","BU000210_PB",NA
+"BU000209","grandis","Patrick_Bayou_B","M","WGS","SRS3342687","SAMN09267618",NA,NA,NA,NA,NA,"PB_B","BU000209_PB",NA
+"BU000207","grandis","Patrick_Bayou_B","M","WGS","SRS3342688","SAMN09267617",NA,NA,NA,NA,NA,"PB_B","BU000207_PB",NA
+"BU000206","grandis","Patrick_Bayou_A","F","WGS","SRS3342689","SAMN09267616",NA,NA,NA,NA,NA,"PB_A","BU000206_PB",NA
+"BU000205","grandis","Patrick_Bayou_A","F","WGS","SRS3342682","SAMN09267615",NA,NA,NA,NA,NA,"PB_A","BU000205_PB",NA
+"BU000204","grandis","Patrick_Bayou_A","F","WGS","SRS3342683","SAMN09267614",NA,NA,NA,NA,NA,"PB_A","BU000204_PB",NA
+"BU000203","grandis","Patrick_Bayou_A","F","WGS","SRS3342684","SAMN09267613",NA,NA,NA,NA,NA,"PB_A","BU000203_PB",NA
+"BU000202","grandis","Patrick_Bayou_A","F","WGS","SRS3342685","SAMN09267612",NA,NA,NA,NA,NA,"PB_A","BU000202_PB",NA
+"BU000201","grandis","Patrick_Bayou_A","F","WGS","SRS3342742","SAMN09267611",NA,NA,NA,NA,NA,"PB_A","BU000201_PB",NA
+"BU000200","grandis","Patrick_Bayou_A","F","WGS","SRS3342741","SAMN09267610",NA,NA,NA,NA,NA,"PB_A","BU000200_PB",NA
+"BU000199","grandis","Patrick_Bayou_A","F","WGS","SRS3342729","SAMN09267609",NA,NA,NA,NA,NA,"PB_A","BU000199_PB",NA
+"BU000198","grandis","Patrick_Bayou_A","F","WGS","SRS3342732","SAMN09267608",NA,NA,NA,NA,NA,"PB_A","BU000198_PB",NA
+"BU000197","grandis","Patrick_Bayou_A","F","WGS","SRS3342730","SAMN09267607",NA,NA,NA,NA,NA,"PB_A","BU000197_PB",NA
+"BU000196","grandis","Patrick_Bayou_A","F","WGS","SRS3342731","SAMN09267606",NA,NA,NA,NA,NA,"PB_A","BU000196_PB",NA
+"BU000195","grandis","Patrick_Bayou_A","F","WGS","SRS3342880","SAMN09267605",NA,NA,NA,NA,NA,"PB_A","BU000195_PB",NA
+"BU000194","grandis","Patrick_Bayou_A","F","WGS","SRS3342878","SAMN09267604",NA,NA,NA,NA,NA,"PB_A","BU000194_PB",NA
+"BU000193","grandis","Patrick_Bayou_A","F","WGS","SRS3342736","SAMN09267603",NA,NA,NA,NA,NA,"PB_A","BU000193_PB",NA
+"BU000192","grandis","Patrick_Bayou_A","F","WGS","SRS3342735","SAMN09267602",NA,NA,NA,NA,NA,"PB_A","BU000192_PB",NA
+"BU000191","grandis","Patrick_Bayou_A","F","WGS","SRS3342784","SAMN09267601",NA,NA,NA,NA,NA,"PB_A","BU000191_PB",NA
+"BU000190","grandis","Patrick_Bayou_A","F","WGS","SRS3342783","SAMN09267600",NA,NA,NA,NA,NA,"PB_A","BU000190_PB",NA
+"BU000188","grandis","Patrick_Bayou_A","M","WGS","SRS3342773","SAMN09267599",NA,NA,NA,NA,NA,"PB_A","BU000188_PB",NA
+"BU000187","grandis","Patrick_Bayou_A","M","WGS","SRS3342776","SAMN09267598",NA,NA,NA,NA,NA,"PB_A","BU000187_PB",NA
+"BU000186","grandis","Patrick_Bayou_A","M","WGS","SRS3342772","SAMN09267597",NA,NA,NA,NA,NA,"PB_A","BU000186_PB",NA
+"BU000185","grandis","Patrick_Bayou_A","M","WGS","SRS3342771","SAMN09267596",NA,NA,NA,NA,NA,"PB_A","BU000185_PB",NA
+"BU000184","grandis","Patrick_Bayou_A","M","WGS","SRS3342777","SAMN09267595",NA,NA,NA,NA,NA,"PB_A","BU000184_PB",NA
+"BU000183","grandis","Patrick_Bayou_A","M","WGS","SRS3342778","SAMN09267594",NA,NA,NA,NA,NA,"PB_A","BU000183_PB",NA
+"BU000182","grandis","Patrick_Bayou_A","M","WGS","SRS3342774","SAMN09267593",NA,NA,NA,NA,NA,"PB_A","BU000182_PB",NA
+"BU000180","grandis","Vince_Bayou_B","F","WGS","SRS3342775","SAMN09267592",NA,NA,NA,NA,NA,"VB_B","BU000180_VB",NA
+"BU000179","grandis","Vince_Bayou_B","F","WGS","SRS3342825","SAMN09267591",NA,NA,NA,NA,NA,"VB_B","BU000179_VB",NA
+"BU000178","grandis","Vince_Bayou_B","F","WGS","SRS3342823","SAMN09267590",NA,NA,NA,NA,NA,"VB_B","BU000178_VB",NA
+"BU000177","grandis","Vince_Bayou_B","F","WGS","SRS3342824","SAMN09267589",NA,NA,NA,NA,NA,"VB_B","BU000177_VB",NA
+"BU000176","grandis","Vince_Bayou_B","F","WGS","SRS3342822","SAMN09267588",NA,NA,NA,NA,NA,"VB_B","BU000176_VB",NA
+"BU000175","grandis","Vince_Bayou_B","M","WGS","SRS3342820","SAMN09267587",NA,NA,NA,NA,NA,"VB_B","BU000175_VB",NA
+"BU000174","grandis","Vince_Bayou_B","M","WGS","SRS3342821","SAMN09267586",NA,NA,NA,NA,NA,"VB_B","BU000174_VB",NA
+"BU000173","grandis","Vince_Bayou_B","M","WGS","SRS3342819","SAMN09267585",NA,NA,NA,NA,NA,"VB_B","BU000173_VB",NA
+"BU000172","grandis","Vince_Bayou_B","M","WGS","SRS3342818","SAMN09267584",NA,NA,NA,NA,NA,"VB_B","BU000172_VB",NA
+"BU000171","grandis","Vince_Bayou_B","M","WGS","SRS3342817","SAMN09267583",NA,NA,NA,NA,NA,"VB_B","BU000171_VB",NA
+"BU000170","grandis","Vince_Bayou_B","M","WGS","SRS3342816","SAMN09267582",NA,NA,NA,NA,NA,"VB_B","BU000170_VB",NA
+"BU000169","grandis","Vince_Bayou_B","M","WGS","SRS3342931","SAMN09267581",NA,NA,NA,NA,NA,"VB_B","BU000169_VB",NA
+"BU000168","grandis","Vince_Bayou_B","M","WGS","SRS3342846","SAMN09267580",NA,NA,NA,NA,NA,"VB_B","BU000168_VB",NA
+"BU000167","grandis","Vince_Bayou_A","F","WGS","SRS3342847","SAMN09267579",NA,NA,NA,NA,NA,"VB_A","BU000167_VB",NA
+"BU000166","grandis","Vince_Bayou_A","F","WGS","SRS3342848","SAMN09267578",NA,NA,NA,NA,NA,"VB_A","BU000166_VB",NA
+"BU000165","grandis","Vince_Bayou_A","F","WGS","SRS3342849","SAMN09267577",NA,NA,NA,NA,NA,"VB_A","BU000165_VB",NA
+"BU000164","grandis","Vince_Bayou_A","F","WGS","SRS3342850","SAMN09267576",NA,NA,NA,NA,NA,"VB_A","BU000164_VB",NA
+"BU000161","grandis","Vince_Bayou_A","F","WGS","SRS3342851","SAMN09267575",NA,NA,NA,NA,NA,"VB_A","BU000161_VB",NA
+"BU000160","grandis","Vince_Bayou_A","F","WGS","SRS3342852","SAMN09267574",NA,NA,NA,NA,NA,"VB_A","BU000160_VB",NA
+"BU000158","grandis","Vince_Bayou_A","F","WGS","SRS3342853","SAMN09267573",NA,NA,NA,NA,NA,"VB_A","BU000158_VB",NA
+"BU000157","grandis","Vince_Bayou_A","F","WGS","SRS3342854","SAMN09267572",NA,NA,NA,NA,NA,"VB_A","BU000157_VB",NA
+"BU000155","grandis","Vince_Bayou_A","F","WGS","SRS3342919","SAMN09267571",NA,NA,NA,NA,NA,"VB_A","BU000155_VB",NA
+"BU000153","grandis","Vince_Bayou_A","F","WGS","SRS3342918","SAMN09267570",NA,NA,NA,NA,NA,"VB_A","BU000153_VB",NA
+"BU000152","grandis","Vince_Bayou_A","F","WGS","SRS3342754","SAMN09267569",NA,NA,NA,NA,NA,"VB_A","BU000152_VB",NA
+"BU000151","grandis","Vince_Bayou_A","F","WGS","SRS3342753","SAMN09267568",NA,NA,NA,NA,NA,"VB_A","BU000151_VB",NA
+"BU000150","grandis","Vince_Bayou_A","F","WGS","SRS3342704","SAMN09267567",NA,NA,NA,NA,NA,"VB_A","BU000150_VB",NA
+"BU000149","grandis","Vince_Bayou_A","F","WGS","SRS3342757","SAMN09267566",NA,NA,NA,NA,NA,"VB_A","BU000149_VB",NA
+"BU000148","grandis","Vince_Bayou_A","F","WGS","SRS3342770","SAMN09267565",NA,NA,NA,NA,NA,"VB_A","BU000148_VB",NA
+"BU000145","grandis","Vince_Bayou_A","F","WGS","SRS3342768","SAMN09267564",NA,NA,NA,NA,NA,"VB_A","BU000145_VB",NA
+"BU000144","grandis","Vince_Bayou_A","F","WGS","SRS3342720","SAMN09267563",NA,NA,NA,NA,NA,"VB_A","BU000144_VB",NA
+"BU000142","grandis","Vince_Bayou_A","F","WGS","SRS3342705","SAMN09267562",NA,NA,NA,NA,NA,"VB_A","BU000142_VB",NA
+"BU000141","grandis","Vince_Bayou_A","F","WGS","SRS3342884","SAMN09267561",NA,NA,NA,NA,NA,"VB_A","BU000141_VB",NA
+"BU000140","grandis","Vince_Bayou_A","F","WGS","SRS3342827","SAMN09267560",NA,NA,NA,NA,NA,"VB_A","BU000140_VB",NA
+"BU000139","grandis","Vince_Bayou_A","M","WGS","SRS3342843","SAMN09267559",NA,NA,NA,NA,NA,"VB_A","BU000139_VB",NA
+"BU000138","grandis","Vince_Bayou_A","M","WGS","SRS3342844","SAMN09267558",NA,NA,NA,NA,NA,"VB_A","BU000138_VB",NA
+"BU000137","grandis","Vince_Bayou_A","M","WGS","SRS3342841","SAMN09267557",NA,NA,NA,NA,NA,"VB_A","BU000137_VB",NA
+"BU000136","grandis","Vince_Bayou_A","M","WGS","SRS3342842","SAMN09267556",NA,NA,NA,NA,NA,"VB_A","BU000136_VB",NA
+"BU000135","grandis","Vince_Bayou_A","M","WGS","SRS3342702","SAMN09267555",NA,NA,NA,NA,NA,"VB_A","BU000135_VB",NA
+"BU000134","grandis","Vince_Bayou_A","M","WGS","SRS3342863","SAMN09267554",NA,NA,NA,NA,NA,"VB_A","BU000134_VB",NA
+"BU000133","grandis","Vince_Bayou_A","M","WGS","SRS3342737","SAMN09267553",NA,NA,NA,NA,NA,"VB_A","BU000133_VB",NA
+"BU000132","grandis","Vince_Bayou_A","M","WGS","SRS3342756","SAMN09267552",NA,NA,NA,NA,NA,"VB_A","BU000132_VB",NA
+"BU000131","grandis","Vince_Bayou_A","M","WGS","SRS3342912","SAMN09267551",NA,NA,NA,NA,NA,"VB_A","BU000131_VB",NA
+"BU000130","grandis","Vince_Bayou_A","M","WGS","SRS3342910","SAMN09267550",NA,NA,NA,NA,NA,"VB_A","BU000130_VB",NA
+"BU000129","grandis","Vince_Bayou_A","M","WGS","SRS3342909","SAMN09267549",NA,NA,NA,NA,NA,"VB_A","BU000129_VB",NA
+"BU000127","grandis","Gangs_Bayou","F","WGS","SRS3342911","SAMN09267548",NA,NA,NA,NA,NA,"GB","BU000127_GB",NA
+"BU000126","grandis","Gangs_Bayou","F","WGS","SRS3342908","SAMN09267547",NA,NA,NA,NA,NA,"GB","BU000126_GB",NA
+"BU000125","grandis","Gangs_Bayou","F","WGS","SRS3342906","SAMN09267546",NA,NA,NA,NA,NA,"GB","BU000125_GB",NA
+"BU000124","grandis","Gangs_Bayou","M","WGS","SRS3342907","SAMN09267545",NA,NA,NA,NA,NA,"GB","BU000124_GB",NA
+"BU000123","grandis","Gangs_Bayou","M","WGS","SRS3342905","SAMN09267544",NA,NA,NA,NA,NA,"GB","BU000123_GB",NA
+"BU000121","grandis","Gangs_Bayou","F","WGS","SRS3342904","SAMN09267543",NA,NA,NA,NA,NA,"GB","BU000121_GB",NA
+"BU000120","grandis","Gangs_Bayou","F","WGS","SRS3342903","SAMN09267542",NA,NA,NA,NA,NA,"GB","BU000120_GB",NA
+"BU000116","grandis","Gangs_Bayou","F","WGS","SRS3342669","SAMN09267541",NA,NA,NA,NA,NA,"GB","BU000116_GB",NA
+"BU000110","grandis","Gangs_Bayou","F","WGS","SRS3342738","SAMN09267540",NA,NA,NA,NA,NA,"GB","BU000110_GB",NA
+"BU000106","grandis","Gangs_Bayou","F","WGS","SRS3342801","SAMN09267539",NA,NA,NA,NA,NA,"GB","BU000106_GB",NA
+"BU000105","grandis","Gangs_Bayou","F","WGS","SRS3342939","SAMN09267538",NA,NA,NA,NA,NA,"GB","BU000105_GB",NA
+"BU000104","grandis","Gangs_Bayou","F","WGS","SRS3342800","SAMN09267537",NA,NA,NA,NA,NA,"GB","BU000104_GB",NA
+"BU000103","grandis","Gangs_Bayou","F","WGS","SRS3342698","SAMN09267536",NA,NA,NA,NA,NA,"GB","BU000103_GB",NA
+"BU000102","grandis","Gangs_Bayou","F","WGS","SRS3342699","SAMN09267535",NA,NA,NA,NA,NA,"GB","BU000102_GB",NA
+"BU000101","grandis","Gangs_Bayou","F","WGS","SRS3342701","SAMN09267534",NA,NA,NA,NA,NA,"GB","BU000101_GB",NA
+"BU000100","grandis","Gangs_Bayou","F","WGS","SRS3342703","SAMN09267533",NA,NA,NA,NA,NA,"GB","BU000100_GB",NA
+"BU000097","grandis","Gangs_Bayou","F","WGS","SRS3342706","SAMN09267532",NA,NA,NA,NA,NA,"GB","BU000097_GB",NA
+"BU000095","grandis","Gangs_Bayou","F","WGS","SRS3342831","SAMN09267531",NA,NA,NA,NA,NA,"GB","BU000095_GB",NA
+"BU000094","grandis","Gangs_Bayou","F","WGS","SRS3342829","SAMN09267530",NA,NA,NA,NA,NA,"GB","BU000094_GB",NA
+"BU000093","grandis","Gangs_Bayou","F","WGS","SRS3342815","SAMN09267529",NA,NA,NA,NA,NA,"GB","BU000093_GB",NA
+"BU000092","grandis","Gangs_Bayou","F","WGS","SRS3342812","SAMN09267528",NA,NA,NA,NA,NA,"GB","BU000092_GB",NA
+"BU000090","grandis","Gangs_Bayou","F","WGS","SRS3342826","SAMN09267527",NA,NA,NA,NA,NA,"GB","BU000090_GB",NA
+"BU000089","grandis","Gangs_Bayou","F","WGS","SRS3342700","SAMN09267526",NA,NA,NA,NA,NA,"GB","BU000089_GB",NA
+"BU000088","grandis","Gangs_Bayou","F","WGS","SRS3342799","SAMN09267525",NA,NA,NA,NA,NA,"GB","BU000088_GB",NA
+"BU000087","grandis","Gangs_Bayou","F","WGS","SRS3342798","SAMN09267524",NA,NA,NA,NA,NA,"GB","BU000087_GB",NA
+"BU000086","grandis","Gangs_Bayou","F","WGS","SRS3342670","SAMN09267523",NA,NA,NA,NA,NA,"GB","BU000086_GB",NA
+"BU000085","grandis","Gangs_Bayou","F","WGS","SRS3342802","SAMN09267522",NA,NA,NA,NA,NA,"GB","BU000085_GB",NA
+"BU000084","grandis","Gangs_Bayou","F","WGS","SRS3342788","SAMN09267521",NA,NA,NA,NA,NA,"GB","BU000084_GB",NA
+"BU000083","grandis","Gangs_Bayou","F","WGS","SRS3342787","SAMN09267520",NA,NA,NA,NA,NA,"GB","BU000083_GB",NA
+"BU000082","grandis","Gangs_Bayou","F","WGS","SRS3342796","SAMN09267519",NA,NA,NA,NA,NA,"GB","BU000082_GB",NA
+"BU000081","grandis","Gangs_Bayou","F","WGS","SRS3342797","SAMN09267518",NA,NA,NA,NA,NA,"GB","BU000081_GB",NA
+"BU000078","grandis","Gangs_Bayou","F","WGS","SRS3342794","SAMN09267517",NA,NA,NA,NA,NA,"GB","BU000078_GB",NA
+"BU000077","grandis","Gangs_Bayou","F","WGS","SRS3342795","SAMN09267516",NA,NA,NA,NA,NA,"GB","BU000077_GB",NA
+"BU000076","grandis","Gangs_Bayou","M","WGS","SRS3342877","SAMN09267515",NA,NA,NA,NA,NA,"GB","BU000076_GB",NA
+"BU000075","grandis","Gangs_Bayou","M","WGS","SRS3342793","SAMN09267514",NA,NA,NA,NA,NA,"GB","BU000075_GB",NA
+"BU000074","grandis","Gangs_Bayou","M","WGS","SRS3342790","SAMN09267513",NA,NA,NA,NA,NA,"GB","BU000074_GB",NA
+"BU000073","grandis","Gangs_Bayou","M","WGS","SRS3342791","SAMN09267512",NA,NA,NA,NA,NA,"GB","BU000073_GB",NA
+"BU000072","grandis","Gangs_Bayou","M","WGS","SRS3342743","SAMN09267511",NA,NA,NA,NA,NA,"GB","BU000072_GB",NA
+"BU000071","grandis","Gangs_Bayou","M","WGS","SRS3342744","SAMN09267510",NA,NA,NA,NA,NA,"GB","BU000071_GB",NA
+"BU000070","grandis","Gangs_Bayou","M","WGS","SRS3342748","SAMN09267509",NA,NA,NA,NA,NA,"GB","BU000070_GB",NA
+"BU000069","grandis","Gangs_Bayou","M","WGS","SRS3342747","SAMN09267508",NA,NA,NA,NA,NA,"GB","BU000069_GB",NA
+"BU000068","grandis","Gangs_Bayou","M","WGS","SRS3342746","SAMN09267507",NA,NA,NA,NA,NA,"GB","BU000068_GB",NA
+"BU000067","grandis","Gangs_Bayou","M","WGS","SRS3342745","SAMN09267506",NA,NA,NA,NA,NA,"GB","BU000067_GB",NA
+"BU000066","grandis","Gangs_Bayou","M","WGS","SRS3342751","SAMN09267505",NA,NA,NA,NA,NA,"GB","BU000066_GB",NA
+"BU000065","grandis","Gangs_Bayou","M","WGS","SRS3342750","SAMN09267504",NA,NA,NA,NA,NA,"GB","BU000065_GB",NA
+"BU000064","grandis","Gangs_Bayou","M","WGS","SRS3342752","SAMN09267503",NA,NA,NA,NA,NA,"GB","BU000064_GB",NA
+"BU000063","grandis","Gangs_Bayou","M","WGS","SRS3342749","SAMN09267502",NA,NA,NA,NA,NA,"GB","BU000063_GB",NA
+"BU000062","grandis","Gangs_Bayou","M","WGS","SRS3342715","SAMN09267501",NA,NA,NA,NA,NA,"GB","BU000062_GB",NA
+"BU000057","grandis","Smith_Point","M","WGS","SRS3342716","SAMN09267500",NA,NA,NA,NA,NA,"SP","BU000057_SP",NA
+"BU000056","grandis","Smith_Point","M","WGS","SRS3342711","SAMN09267499",NA,NA,NA,NA,NA,"SP","BU000056_SP",NA
+"BU000055","grandis","Smith_Point","M","WGS","SRS3342712","SAMN09267498",NA,NA,NA,NA,NA,"SP","BU000055_SP",NA
+"BU000054","grandis","Smith_Point","M","WGS","SRS3342713","SAMN09267497",NA,NA,NA,NA,NA,"SP","BU000054_SP",NA
+"BU000053","grandis","Smith_Point","M","WGS","SRS3342714","SAMN09267496",NA,NA,NA,NA,NA,"SP","BU000053_SP",NA
+"BU000052","grandis","Smith_Point","M","WGS","SRS3342707","SAMN09267495",NA,NA,NA,NA,NA,"SP","BU000052_SP",NA
+"BU000049","grandis","Smith_Point","M","WGS","SRS3342708","SAMN09267494",NA,NA,NA,NA,NA,"SP","BU000049_SP",NA
+"BU000048","grandis","Smith_Point","M","WGS","SRS3342709","SAMN09267493",NA,NA,NA,NA,NA,"SP","BU000048_SP",NA
+"BU000046","grandis","Smith_Point","M","WGS","SRS3342710","SAMN09267492",NA,NA,NA,NA,NA,"SP","BU000046_SP",NA
+"BU000041","grandis","Smith_Point","M","WGS","SRS3342681","SAMN09267491",NA,NA,NA,NA,NA,"SP","BU000041_SP",NA
+"BU000039","grandis","Smith_Point","M","WGS","SRS3342680","SAMN09267490",NA,NA,NA,NA,NA,"SP","BU000039_SP",NA
+"BU000037","grandis","Smith_Point","M","WGS","SRS3342673","SAMN09267489",NA,NA,NA,NA,NA,"SP","BU000037_SP",NA
+"BU000036","grandis","Smith_Point","M","WGS","SRS3342672","SAMN09267488",NA,NA,NA,NA,NA,"SP","BU000036_SP",NA
+"BU000035","grandis","Smith_Point","M","WGS","SRS3342674","SAMN09267487",NA,NA,NA,NA,NA,"SP","BU000035_SP",NA
+"BU000033","grandis","Smith_Point","M","WGS","SRS3342675","SAMN09267486",NA,NA,NA,NA,NA,"SP","BU000033_SP",NA
+"BU000032","grandis","Smith_Point","M","WGS","SRS3342677","SAMN09267485",NA,NA,NA,NA,NA,"SP","BU000032_SP",NA
+"BU000031","grandis","Smith_Point","M","WGS","SRS3342676","SAMN09267484",NA,NA,NA,NA,NA,"SP","BU000031_SP",NA
+"BU000025","grandis","Smith_Point","M","WGS","SRS3342678","SAMN09267483",NA,NA,NA,NA,NA,"SP","BU000025_SP",NA
+"BU000024","grandis","Smith_Point","M","WGS","SRS3342679","SAMN09267482",NA,NA,NA,NA,NA,"SP","BU000024_SP",NA
+"BU000023","grandis","Smith_Point","M","WGS","SRS3342740","SAMN09267481",NA,NA,NA,NA,NA,"SP","BU000023_SP",NA
+"BU000018","grandis","Smith_Point","M","WGS","SRS3342739","SAMN09267480",NA,NA,NA,NA,NA,"SP","BU000018_SP",NA
+"BU000017","grandis","Smith_Point","M","WGS","SRS3342845","SAMN09267479",NA,NA,NA,NA,NA,"SP","BU000017_SP",NA
+"BU000014","grandis","Smith_Point","M","WGS","SRS3342874","SAMN09267478",NA,NA,NA,NA,NA,"SP","BU000014_SP",NA
+"BU000012","grandis","Smith_Point","M","WGS","SRS3342811","SAMN09267477",NA,NA,NA,NA,NA,"SP","BU000012_SP",NA
+"BU000008","grandis","Vince_Bayou_B","M","WGS","SRS3342792","SAMN09267476",NA,NA,NA,NA,NA,"VB_B","BU000008_VB",NA
+"BU000007","grandis","Vince_Bayou_B","M","WGS","SRS3342913","SAMN09267475",NA,NA,NA,NA,NA,"VB_B","BU000007_VB",NA
+"BU000006","grandis","Vince_Bayou_B","M","WGS","SRS3342885","SAMN09267474",NA,NA,NA,NA,NA,"VB_B","BU000006_VB",NA
+"BU000005","grandis","Vince_Bayou_B","M","WGS","SRS3342734","SAMN09267473",NA,NA,NA,NA,NA,"VB_B","BU000005_VB",NA
+"BU000004","grandis","Vince_Bayou_B","M","WGS","SRS3342733","SAMN09267472",NA,NA,NA,NA,NA,"VB_B","BU000004_VB",NA
+"BI-F1-0-1","heteroclitus","Block Island","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"BI",NA,"0"
+"BI-F1-0-2","heteroclitus","Block Island","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"BI",NA,"0"
+"BI-F1-0-4","heteroclitus","Block Island","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"BI",NA,"0"
+"BI-F1-0-5","heteroclitus","Block Island","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"BI",NA,"0"
+"BI-F1-200-2","heteroclitus","Block Island","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"BI",NA,"200"
+"BI-F1-200-3","heteroclitus","Block Island","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"BI",NA,"200"
+"BI-F1-200-4","heteroclitus","Block Island","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"BI",NA,"200"
+"BI-F1-200-5","heteroclitus","Block Island","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"BI",NA,"200"
+"BP-F2-0-1","heteroclitus","Bridgeport","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"BP",NA,"0"
+"BP-F2-0-2","heteroclitus","Bridgeport","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"BP",NA,"0"
+"BP-F2-0-4","heteroclitus","Bridgeport","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"BP",NA,"0"
+"BP-F2-0-5","heteroclitus","Bridgeport","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"BP",NA,"0"
+"BP-F2-200-1","heteroclitus","Bridgeport","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"BP",NA,"200"
+"BP-F2-200-2","heteroclitus","Bridgeport","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"BP",NA,"200"
+"BP-F2-200-3","heteroclitus","Bridgeport","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"BP",NA,"200"
+"BP-F2-200-4","heteroclitus","Bridgeport","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"BP",NA,"200"
+"BP-F2-200-5","heteroclitus","Bridgeport","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"BP",NA,"200"
+"ER-F1-0-2","heteroclitus","Elizabeth River","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"ER",NA,"0"
+"ER-F1-0-3","heteroclitus","Elizabeth River","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"ER",NA,"0"
+"ER-F1-0-4","heteroclitus","Elizabeth River","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"ER",NA,"0"
+"ER-F1-0-5","heteroclitus","Elizabeth River","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"ER",NA,"0"
+"ER-F1-200-1","heteroclitus","Elizabeth River","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"ER",NA,"200"
+"ER-F1-200-2","heteroclitus","Elizabeth River","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"ER",NA,"200"
+"ER-F1-200-3","heteroclitus","Elizabeth River","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"ER",NA,"200"
+"ER-F1-2000-4","heteroclitus","Elizabeth River","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"ER",NA,"2000"
+"ER-F1-2000-5","heteroclitus","Elizabeth River","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"ER",NA,"2000"
+"ER-F1-2000-6","heteroclitus","Elizabeth River","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"ER",NA,"2000"
+"FLAX-F1-0-1","heteroclitus","Flax Pond","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"FLAX",NA,"0"
+"FLAX-F1-0-2","heteroclitus","Flax Pond","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"FLAX",NA,"0"
+"FLAX-F1-0-3","heteroclitus","Flax Pond","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"FLAX",NA,"0"
+"FLAX-F1-0-4","heteroclitus","Flax Pond","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"FLAX",NA,"0"
+"FLAX-F1-0-5","heteroclitus","Flax Pond","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"FLAX",NA,"0"
+"FLAX-F1-200-1","heteroclitus","Flax Pond","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"FLAX",NA,"200"
+"FLAX-F1-200-3","heteroclitus","Flax Pond","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"FLAX",NA,"200"
+"FLAX-F1-200-4","heteroclitus","Flax Pond","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"FLAX",NA,"200"
+"FLAX-F1-200-5","heteroclitus","Flax Pond","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"FLAX",NA,"200"
+"KC-F2-0-1","heteroclitus","King's Creek","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"KC",NA,"0"
+"KC-F2-0-2","heteroclitus","King's Creek","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"KC",NA,"0"
+"KC-F2-0-3","heteroclitus","King's Creek","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"KC",NA,"0"
+"KC-F2-0-4","heteroclitus","King's Creek","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"KC",NA,"0"
+"KC-F2-0-5","heteroclitus","King's Creek","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"KC",NA,"0"
+"KC-F2-200-1","heteroclitus","King's Creek","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"KC",NA,"200"
+"KC-F2-200-2","heteroclitus","King's Creek","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"KC",NA,"200"
+"KC-F2-200-3","heteroclitus","King's Creek","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"KC",NA,"200"
+"KC-F2-200-4","heteroclitus","King's Creek","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"KC",NA,"200"
+"NBH-F2-0-1","heteroclitus","New Bedford Harbor","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"NBH",NA,"0"
+"NBH-F2-0-2","heteroclitus","New Bedford Harbor","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"NBH",NA,"0"
+"NBH-F2-0-3","heteroclitus","New Bedford Harbor","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"NBH",NA,"0"
+"NBH-F2-0-4","heteroclitus","New Bedford Harbor","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"NBH",NA,"0"
+"NBH-F2-200-2","heteroclitus","New Bedford Harbor","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"NBH",NA,"200"
+"NBH-F2-200-3","heteroclitus","New Bedford Harbor","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"NBH",NA,"200"
+"NBH-F2-200-4","heteroclitus","New Bedford Harbor","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"NBH",NA,"200"
+"NWK-F2-0-1","heteroclitus","Newark","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"NWK",NA,"0"
+"NWK-F2-0-2","heteroclitus","Newark","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"NWK",NA,"0"
+"NWK-F2-0-3","heteroclitus","Newark","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"NWK",NA,"0"
+"NWK-F2-0-5","heteroclitus","Newark","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"NWK",NA,"0"
+"NWK-F2-200-1","heteroclitus","Newark","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"NWK",NA,"200"
+"NWK-F2-200-2","heteroclitus","Newark","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"NWK",NA,"200"
+"NWK-F2-200-3","heteroclitus","Newark","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"NWK",NA,"200"
+"NWK-F2-200-4","heteroclitus","Newark","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"NWK",NA,"200"
+"SH-F1-0-1","heteroclitus","Sandy Hook","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"SH",NA,"0"
+"SH-F1-0-2","heteroclitus","Sandy Hook","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"SH",NA,"0"
+"SH-F1-0-4","heteroclitus","Sandy Hook","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"SH",NA,"0"
+"SH-F1-0-5","heteroclitus","Sandy Hook","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"SH",NA,"0"
+"SH-F1-200-1","heteroclitus","Sandy Hook","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"SH",NA,"200"
+"SH-F1-200-2","heteroclitus","Sandy Hook","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"SH",NA,"200"
+"SH-F1-200-3","heteroclitus","Sandy Hook","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"SH",NA,"200"
+"SH-F1-200-4","heteroclitus","Sandy Hook","F","RNAseq",NA,NA,NA,NA,NA,NA,NA,"SH",NA,"200"
+"SH-F1-200-5","heteroclitus","Sandy Hook","M","RNAseq",NA,NA,NA,NA,NA,NA,NA,"SH",NA,"200"
+"BI-F1-0-3","heteroclitus","Block Island",NA,"RNAseq",NA,NA,NA,NA,NA,NA,NA,"BI",NA,"0"
+"BP-F2-0-3","heteroclitus","Bridgeport",NA,"RNAseq",NA,NA,NA,NA,NA,NA,NA,"BP",NA,"0"
+"ER-F1-0-1","heteroclitus","Elizabeth River",NA,"RNAseq",NA,NA,NA,NA,NA,NA,NA,"ER",NA,"0"
+"FLAX-F1-200-2","heteroclitus","Flax Pond",NA,"RNAseq",NA,NA,NA,NA,NA,NA,NA,"FLAX",NA,"200"
+"NBH-F2-200-1","heteroclitus","New Bedford Harbor",NA,"RNAseq",NA,NA,NA,NA,NA,NA,NA,"NBH",NA,"200"
+"SH-F1-0-3","heteroclitus","Sandy Hook",NA,"RNAseq",NA,NA,NA,NA,NA,NA,NA,"SH",NA,"0"
+"RLM_14517","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14518","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14519","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14520","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14521","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14522","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14523","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14524","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14525","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14526","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14527","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14528","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14529","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14530","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14531","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14532","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14533","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14534","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14535","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14536","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14537","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14538","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14539","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14540","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14541","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14542","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14543","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP",NA,NA
+"RLM_14544","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14545","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14546","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14547","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14548","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14549","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14550","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14551","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14552","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14553","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14554","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14555","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14556","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14557","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14558","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14559","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14560","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14561","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14562","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP",NA,NA
+"RLM_14583","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14584","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14585","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14586","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14587","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14588","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14589","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14590","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14591","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14592","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14593","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14594","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14595","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14596","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14597","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14598","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14599","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14600","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14601","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14602","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP",NA,NA
+"RLM_14606","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14607","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14608","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14609","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14610","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14611","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14612","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14613","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14926","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2013",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14614","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2013",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14615","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2013",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14616","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2013",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14617","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2013",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14618","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2013",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14619","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2013",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14620","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2013",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14621","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2013",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14622","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2013",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14623","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2013",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14624","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2013",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14625","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2013",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14927","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2014",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14928","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2015",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14929","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2016",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14930","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2017",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14931","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2018",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14932","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2019",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14933","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2020",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14934","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2021",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14935","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2022",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14936","bermudae","Blue Hole",NA,"WGS",NA,NA,"15-16 May, 2023",NA,NA,NA,NA,"BEBH",NA,NA
+"RLM_14937","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14938","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14939","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14940","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14941","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14942","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14943","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14944","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14945","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14946","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14947","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14948","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14949","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14950","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14951","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14952","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14953","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14954","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14955","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14956","relictus","Coopers Island Pond",NA,"WGS",NA,NA,"16-17 May, 2013",NA,NA,NA,NA,"BECI",NA,NA
+"RLM_14563","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14564","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14565","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14566","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14567","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14568","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14569","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14570","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14571","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14572","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14573","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14574","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14575","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14576","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14577","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14578","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14579","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14580","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14581","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"RLM_14582","bermudae","Mangrove Lake",NA,"WGS",NA,NA,"",NA,NA,NA,NA,"BEML",NA,NA
+"BU18FLFB001","grandis","Flagler Beach, Florida","M","WGS",NA,NA,"7/18/18",NA,91,NA,NA,"FLFB",NA,NA
+"BU18FLFB002","grandis","Flagler Beach, Florida","F","WGS",NA,NA,"7/18/18",NA,72,NA,NA,"FLFB",NA,NA
+"BU18FLFB003","grandis","Flagler Beach, Florida","M","WGS",NA,NA,"7/18/18",NA,87,NA,NA,"FLFB",NA,NA
+"BU18FLFB004","grandis","Flagler Beach, Florida","F","WGS",NA,NA,"7/18/18",NA,108,NA,NA,"FLFB",NA,NA
+"BU18FLFB005","grandis","Flagler Beach, Florida","F","WGS",NA,NA,"7/18/18",NA,86,NA,NA,"FLFB",NA,NA
+"BU18FLFB006","grandis","Flagler Beach, Florida","F","WGS",NA,NA,"7/18/18",NA,105,NA,NA,"FLFB",NA,NA
+"BU18FLFB007","grandis","Flagler Beach, Florida","M","WGS",NA,NA,"7/18/18",NA,102,NA,NA,"FLFB",NA,NA
+"BU18FLFB008","grandis","Flagler Beach, Florida","F","WGS",NA,NA,"7/18/18",NA,104,NA,NA,"FLFB",NA,NA
+"BU18FLFB009","grandis","Flagler Beach, Florida","F","WGS",NA,NA,"7/18/18",NA,121,NA,NA,"FLFB",NA,NA
+"BU18FLFB010","grandis","Flagler Beach, Florida","M","WGS",NA,NA,"7/18/18",NA,108,NA,NA,"FLFB",NA,NA
+"BU18FLFB011","grandis","Flagler Beach, Florida","M","WGS",NA,NA,"7/18/18",NA,103,NA,NA,"FLFB",NA,NA
+"BU18FLFB012","grandis","Flagler Beach, Florida","M","WGS",NA,NA,"7/18/18",NA,93,NA,NA,"FLFB",NA,NA
+"BU18FLFB013","grandis","Flagler Beach, Florida","F","WGS",NA,NA,"7/18/18",NA,82,NA,NA,"FLFB",NA,NA
+"BU18FLFB014","grandis","Flagler Beach, Florida","F","WGS",NA,NA,"7/18/18",NA,94,NA,NA,"FLFB",NA,NA
+"BU18FLFB015","grandis","Flagler Beach, Florida","F","WGS",NA,NA,"7/18/18",NA,95,NA,NA,"FLFB",NA,NA
+"BU18FLFB016","grandis","Flagler Beach, Florida","F","WGS",NA,NA,"7/18/18",NA,94,NA,NA,"FLFB",NA,NA
+"BU18FLFB017","grandis","Flagler Beach, Florida","M","WGS",NA,NA,"7/18/18",NA,96,NA,NA,"FLFB",NA,NA
+"BU18FLFB018","grandis","Flagler Beach, Florida","M","WGS",NA,NA,"7/18/18",NA,92,NA,NA,"FLFB",NA,NA
+"BU18FLFB019","grandis","Flagler Beach, Florida","F","WGS",NA,NA,"7/18/18",NA,87,NA,NA,"FLFB",NA,NA
+"BU18FLFB020","grandis","Flagler Beach, Florida","F","WGS",NA,NA,"7/18/18",NA,111,NA,NA,"FLFB",NA,NA
+"BU18FLFB021","grandis","Flagler Beach, Florida","M","WGS",NA,NA,"7/18/18",NA,103,NA,NA,"FLFB",NA,NA
+"BU18FLFB022","grandis","Flagler Beach, Florida","F","WGS",NA,NA,"7/18/18",NA,90,NA,NA,"FLFB",NA,NA
+"BU18FLFB023","grandis","Flagler Beach, Florida","M","WGS",NA,NA,"7/18/18",NA,96,NA,NA,"FLFB",NA,NA
+"BU18FLFB024","grandis","Flagler Beach, Florida","F","WGS",NA,NA,"7/18/18",NA,100,NA,NA,"FLFB",NA,NA
+"BU18FLFB025","grandis","Flagler Beach, Florida","M","WGS",NA,NA,"7/18/18",NA,100,NA,NA,"FLFB",NA,NA
+"BU18FLFB026","grandis","Flagler Beach, Florida","M","WGS",NA,NA,"7/18/18",NA,76,NA,NA,"FLFB",NA,NA
+"BU18FLFB027","grandis","Flagler Beach, Florida","F","WGS",NA,NA,"7/18/18",NA,83,NA,NA,"FLFB",NA,NA
+"BU18FLJX006","heteroclitus","Jacksonville, Florida","F","WGS",NA,NA,"7/16/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX007","heteroclitus","Jacksonville, Florida","F","WGS",NA,NA,"7/17/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX008","heteroclitus","Jacksonville, Florida","F","WGS",NA,NA,"7/18/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX009","heteroclitus","Jacksonville, Florida","F","WGS",NA,NA,"7/19/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX010","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"7/20/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX011","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"7/21/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX012","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"7/22/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX013","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"7/23/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX014","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"7/24/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX015","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"7/25/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX016","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"7/26/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX017","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"7/27/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX018","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"7/28/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX019","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"7/29/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX020","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"7/30/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX021","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"7/31/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX022","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/1/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX023","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/2/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX024","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/3/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX025","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/4/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX026","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/5/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX027","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/6/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX028","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/7/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX029","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/8/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX030","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/9/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX031","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/10/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX032","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/11/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX033","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/12/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX034","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/13/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX035","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/14/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX036","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/15/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX037","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/16/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX038","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/17/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX039","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/18/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX040","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/19/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX041","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/20/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX042","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/21/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX043","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/22/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX044","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/23/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX045","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/24/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX046","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/25/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX047","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/26/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX048","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/27/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX049","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/28/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX050","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/29/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX051","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/30/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX052","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"8/31/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX053","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"9/1/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX054","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"9/2/18",NA,NA,NA,NA,"FLFX",NA,NA
+"BU18FLJX055","heteroclitus","Jacksonville, Florida",NA,"WGS",NA,NA,"9/3/18",NA,NA,NA,NA,"FLFX",NA,NA
