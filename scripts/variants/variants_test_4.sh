@@ -13,7 +13,7 @@
 
 module load htslib/1.9
 
-# previous test still slow. skipping coverage > 6000 and setting --haplotype-length to 0. 
+# now adding --use-best-n-alleles 25
 
 FB=~/bin/freebayes/bin/freebayes
 GENOME=../../genome/GCF_000826765.1_Fundulus_heteroclitus-3.0.2_genomic.fasta
@@ -34,6 +34,7 @@ $FB \
 -T 0.01 \
 --skip-coverage 6000 \
 --haplotype-length 0 \
+--use-best-n-alleles 25 \
 -r NW_012224401.1 | \
 bgzip >$OUTDIR/mm3.vcf.gz
 

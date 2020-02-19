@@ -13,6 +13,8 @@
 
 module load htslib/1.9
 
+# previous test was slow. tried adding population designation, using pop priors. 
+
 FB=~/bin/freebayes/bin/freebayes
 GENOME=../../genome/GCF_000826765.1_Fundulus_heteroclitus-3.0.2_genomic.fasta
 
