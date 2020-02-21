@@ -24,7 +24,7 @@ OUTFILE=fundulus_counts.txt
 ANN=../../genome/1kbwin.saf
 
 # create a bam list
-LIST=$OUT/bams.list
+LIST=$OUTDIR/bams.list
 find ../../results/alignments/ -name "*bam" | grep -v "disc" | grep -v "split" | sort >$LIST
 
 
