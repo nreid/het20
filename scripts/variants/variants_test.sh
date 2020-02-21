@@ -13,6 +13,8 @@
 
 module load htslib/1.9
 
+# a basic test for variant calling with new data
+
 FB=~/bin/freebayes/bin/freebayes
 GENOME=../../genome/GCF_000826765.1_Fundulus_heteroclitus-3.0.2_genomic.fasta
 
