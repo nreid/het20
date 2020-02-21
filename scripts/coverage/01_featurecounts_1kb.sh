@@ -17,7 +17,7 @@ module load subread/1.6.0
 
 # output file/directory
 OUTDIR=../../results/coverage
-mkdir -p $OUT
+mkdir -p $OUTDIR
 OUTFILE=fundulus_counts.txt
 
 # 1kb window "annotation" file
