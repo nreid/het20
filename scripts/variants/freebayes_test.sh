@@ -34,5 +34,5 @@ $FB \
 --haplotype-length 0 \
 --use-best-n-alleles 25 \
 -r NW_012224401.1 | \
-bgzip >$OUTDIR/mm4.vcf.gz
+bgzip >$OUTDIR/freebayes_test.vcf.gz
 
