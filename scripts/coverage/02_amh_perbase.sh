@@ -24,4 +24,4 @@ find ../../results/alignments/ -name "*bam" | grep -v "disc" | grep -v "split" |
 
 # get depth for amh region
 
-samtools depth -q 30 -Q 30 -f $LIST -r NW_012234285.1:160000-164000
+samtools depth -q 30 -Q 30 -f $LIST -r NW_012234285.1:160000-164000 | bgzip >$OUTDIR/amh_depth.txt.gz
