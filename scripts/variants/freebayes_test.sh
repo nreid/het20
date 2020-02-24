@@ -1,5 +1,5 @@
 #!/bin/bash 
-#SBATCH --job-name=test_variants
+#SBATCH --job-name=test_freebayes
 #SBATCH --mail-user=noah.reid@uconn.edu
 #SBATCH --mail-type=ALL
 #SBATCH -o %x_%j.out
