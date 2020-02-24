@@ -16,6 +16,8 @@ module load htslib/1.9
 FB=~/bin/freebayes/bin/freebayes
 GENOME=../../genome/GCF_000826765.1_Fundulus_heteroclitus-3.0.2_genomic.fasta
 
+INDIR=../../results/alignments
+
 OUTDIR=../../results/variants
 mkdir -p $OUTDIR
 
@@ -27,7 +29,7 @@ find $INDIR -name "*bam" | grep -v "disc" | grep -v "split" | sort >$BAMLIST
 
 $FB \
 -f $GENOME \
---bam-list $OUTDIR/bams.list \
+--bam-list $BAMLIST \
 -T 0.01 \
 -k \
 --skip-coverage 6000 \

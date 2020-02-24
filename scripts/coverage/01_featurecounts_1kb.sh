@@ -14,6 +14,7 @@
 
 
 module load subread/1.6.0
+module load htslib/1.9
 
 # output file/directory
 OUTDIR=../../results/coverage
@@ -38,3 +39,6 @@ featureCounts \
 -T 8 \
 -a $ANN -o $OUTDIR/$OUTFILE $(cat $LIST | tr "\n" " ")
 
+bgzip $OUTDIR/$OUTFILE
+
+tabix -S 2 -s 2 -b 3 -e 4 $OUTDIR/${OUTFILE}.gz
