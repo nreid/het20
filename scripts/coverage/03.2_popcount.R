@@ -6,8 +6,8 @@ options(scipen=99)
 
 
 # this script takes `samtools mpileup` output and 
-# gives per-base coverage for each population, as 
-# specified in the metadata table
+# gives the number of individuals with coverage 
+# for each population, as specified in the metadata table
 
 # get metadata table
 met <- read.csv("../../metadata/all_samples_V2.csv",stringsAsFactors=FALSE)
