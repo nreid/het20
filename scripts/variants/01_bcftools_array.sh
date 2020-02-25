@@ -30,7 +30,9 @@ mkdir -p $OUTDIR
 
 # bam list
 BAMLIST=$OUTDIR/all_bams.list
-find $INDIR -name "*bam" | grep -v "disc" | grep -v "split" | sort >$BAMLIST
+# this bam list must already exist. 
+# recreating it in the array script causes collisions
+# find $INDIR -name "*bam" | grep -v "disc" | grep -v "split" | sort >$BAMLIST
 
 # ref genome
 REFERENCE=../../genome/GCF_000826765.1_Fundulus_heteroclitus-3.0.2_genomic.fasta
