@@ -9,7 +9,7 @@
 #SBATCH --mem=10G
 #SBATCH --partition=general
 #SBATCH --qos=general
-#SBATCH --array=[10001-10180]%30
+#SBATCH --array=[1-180]%30
 
 
 module load samtools/1.9
@@ -24,7 +24,8 @@ BAMS=../../results/coverage/bams.list
 GEN=../../genome/GCF_000826765.1_Fundulus_heteroclitus-3.0.2_genomic.fasta
 
 # scaffold to run on 
-SCAF=$(sed -n ${SLURM_ARRAY_TASK_ID}p ${GEN}.fai | cut -f 1)
+SN=$(($SLURM_ARRAY_TASK_ID + 10000))
+SCAF=$(sed -n ${SN}p ${GEN}.fai | cut -f 1)
 
 # scripts in the pipeline
 SCRIPT1=03.1_mpile.sh 
