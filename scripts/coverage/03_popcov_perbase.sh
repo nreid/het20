@@ -13,6 +13,19 @@
 
 module load samtools/1.9
 module load htslib/1.9
+module load R/3.6.1 
 
+# list of bam files
 BAMS=../../results/coverage/bams.list
+# reference genome
+GEN=../../genome/GCF_000826765.1_Fundulus_heteroclitus-3.0.2_genomic.fasta
 
+
+SCRIPT1=03.1_mpile.sh 
+SCRIPT2=03.2_popcount.R
+
+OUTDIR=../../results/coverage/scaffolds_pop
+mkdir -p $OUTDIR
+OUTFILE=$1.pop.site.txt.gz
+
+bash $SCRIPT1 $1 $BAMS $GEN | Rscript $SCRIPT2 | cat | bgzip -c >$OUTDIR/$OUTFILE
