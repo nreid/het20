@@ -3,7 +3,6 @@ library(data.table)
 
 met <- read.csv("../../metadata/all_samples_V2.csv",stringsAsFactors=FALSE)
 rownames(met) <- met[,1]
-met <- cbind()
 
 
 tab <- fread("fundulus_counts.txt.gz")

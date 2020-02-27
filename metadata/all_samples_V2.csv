@@ -746,13 +746,13 @@
 "FLAX-F1-200-2","heteroclitus","Flax Pond",NA,"RNAseq",NA,NA,NA,NA,NA,NA,NA,"FLAX","het_NE",NA,"200"
 "NBH-F2-200-1","heteroclitus","New Bedford Harbor",NA,"RNAseq",NA,NA,NA,NA,NA,NA,NA,"NBH","het_NE",NA,"200"
 "SH-F1-0-3","heteroclitus","Sandy Hook",NA,"RNAseq",NA,NA,NA,NA,NA,NA,NA,"SH","het_AD",NA,"0"
-"RLM_14517","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14518","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14519","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14520","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14521","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14522","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14523","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
+"RLM_14517","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14518","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14519","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14520","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14521","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14522","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14523","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
 "RLM_14524","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP","BEWP",NA,NA
 "RLM_14525","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP","BEWP",NA,NA
 "RLM_14526","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP","BEWP",NA,NA
@@ -773,25 +773,25 @@
 "RLM_14541","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP","BEWP",NA,NA
 "RLM_14542","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP","BEWP",NA,NA
 "RLM_14543","bermudae","WindReach pond - populaded from Warrick Pond",NA,"WGS",NA,NA,"14-May-13",NA,NA,NA,NA,"BEWP","BEWP",NA,NA
-"RLM_14544","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14545","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14546","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14547","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14548","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14549","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14550","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14551","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14552","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14553","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14554","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14555","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14556","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14557","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14558","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14559","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14560","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14561","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
-"RLM_14562","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","het_CH",NA,NA
+"RLM_14544","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14545","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14546","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14547","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14548","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14549","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14550","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14551","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14552","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14553","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14554","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14555","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14556","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14557","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14558","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14559","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14560","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14561","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
+"RLM_14562","bermudae","Riddlles Pond - populated from Evans Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BERP","BERP",NA,NA
 "RLM_14583","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP","BETP",NA,NA
 "RLM_14584","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP","BETP",NA,NA
 "RLM_14585","bermudae","Trott's Pond",NA,"WGS",NA,NA,"15-May-13",NA,NA,NA,NA,"BETP","BETP",NA,NA
