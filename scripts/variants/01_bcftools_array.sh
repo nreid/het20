@@ -54,6 +54,6 @@ $bcftools mpileup \
 	-r $SCAF \
 	-G - \
 	-a "FORMAT/AD,FORMAT/DP,INFO/AD" | \
-bcftools call -m -v -Oz -o $OUTDIR/${SCAF}.vcf.gz
+$bcftools call -m -v -Oz -o $OUTDIR/${SCAF}.vcf.gz
 
 
