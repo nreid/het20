@@ -18,8 +18,12 @@ date
 # this is because only 1000 tasks are allowed, and higher numbers are disallowed. 
 
 # load software
-module load bcftools/1.9
+#module load bcftools/1.9
+	# bcftools 1.10.2 not on cluster yet. 
+bcftools=~/bin/bcftools-1.10.2/bcftools
+
 module load htslib/1.9
+
 
 # input/output directories, supplemental files
 
@@ -42,13 +46,14 @@ ARINC=$1
 SN=$(($SLURM_ARRAY_TASK_ID + $ARINC))
 SCAF=$(sed -n ${SN}p ${REFERENCE}.fai | cut -f 1)
 
-bcftools mpileup \
+$bcftools mpileup \
 	-f $REFERENCE \
 	-b $BAMLIST \
 	-q 20 -Q 30 \
 	--max-depth 100 \
 	-r $SCAF \
-	-a "DP,AD" | \
+	-G - \
+	-a "FORMAT/AD,FORMAT/DP,INFO/AD" | \
 bcftools call -m -v -Oz -o $OUTDIR/${SCAF}.vcf.gz
 
 
