@@ -59,6 +59,6 @@ $FB \
 --haplotype-length 0 \
 --use-best-n-alleles 25 \
 -r $SCAF | \
-bgzip >$OUTDIR/freebayes_test.vcf.gz
+bgzip >$OUTDIR/${SCAF}.vcf.gz
 
 
