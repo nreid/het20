@@ -4,8 +4,8 @@
 #SBATCH -e %x_%A_%a.err
 #SBATCH -n 1
 #SBATCH -N 1
-#SBATCH -c 5
-#SBATCH --mem=15G
+#SBATCH -c 1
+#SBATCH --mem=10G
 #SBATCH --qos=general
 #SBATCH --partition=xeon
 #SBATCH --mail-user=
