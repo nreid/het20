@@ -41,13 +41,15 @@ BAMLIST=$OUTDIR/all_bams.list
 BN=$(($SLURM_ARRAY_TASK_ID + 1))
 BAM=$(sed -n ${BN}p $BAMLIST)
 
+OUTFILE=$(basename -s .bam $BAM).g.vcf
+
 gatk HaplotypeCaller \
      -R $GENOME \
      -I $BAM \
      -ERC GVCF \
      --heterozygosity 0.01 \
      --indel-heterozygosity 0.001 \
-     --output $OUTDIR/
+     --output $OUTDIR/$OUTFILE
 
 date 
 
