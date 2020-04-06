@@ -49,6 +49,7 @@ gatk HaplotypeCaller \
      -ERC GVCF \
      --heterozygosity 0.01 \
      --indel-heterozygosity 0.001 \
+     -L NW_012224401.1 \
      --output $OUTDIR/$OUTFILE
 
 date 
