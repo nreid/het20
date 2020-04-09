@@ -15,7 +15,7 @@ hostname
 date
 
 # load required software
-module load GATK/4.0
+module load GATK/4.1.3.0
 
 # set a variable for the reference genome location
 GEN=../../genome/GCF_000826765.1_Fundulus_heteroclitus-3.0.2_genomic.fasta
