@@ -18,7 +18,7 @@ date
 module load GATK/4.0
 
 # set a variable for the reference genome location
-GEN=/UCHC/PublicShare/Variant_Detection_Tutorials/Variant-Detection-Introduction-GATK_all/resources_all/Homo_sapiens_assembly38.fasta
+GEN=../../genome/GCF_000826765.1_Fundulus_heteroclitus-3.0.2_genomic.fasta
 
 DBDIR=../../results/variants/GATK_DB
 
