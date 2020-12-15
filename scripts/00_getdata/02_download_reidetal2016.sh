@@ -20,15 +20,14 @@ module load parallel/20180122
 
 # input/output files, directories
 
-OUTDIR=data/reidetal2016
+OUTDIR=../../data/reidetal2016
 mkdir -p $OUTDIR
 
 METATABLE=../../metadata/Reidetal2016_wgs_SRA_accessions.txt
 
-# accession numbers from table
+# accession numbers from table, fasterq-dump in parallel
 cut -d "," -f 1 $METATABLE | tail -n +2 | \
-parallel -k -j 5 fasterq-dump {} -O $OUTDIR -e 6
+parallel -k -j 5 fasterq-dump {} -O $OUTDIR -e 6 -t $OUTDIR
 
 # gzip files
-
-ls $OUTDIR/*fastq | parallel gzip
+ls $OUTDIR/*fastq | parallel -j 30 gzip

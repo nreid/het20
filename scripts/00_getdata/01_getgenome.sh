@@ -24,7 +24,7 @@ module load samtools/1.10
 # input/output files, directories
 
 GENOMEDIR=../../genome
-mkdir -p GENOMEDIR
+mkdir -p $GENOMEDIR
 
 # download new fundulus genome assembly from:
 	# https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/011/125/445/GCF_011125445.2_MU-UCD_Fhet_4.1/
