@@ -29,7 +29,7 @@ METATABLE=../../metadata/Reidetal2016_wgs_SRA_accessions.txt
 ACC=$(cut -d "," -f 1 $METATABLE | tail -n +2 | tr "\n" " ")
 
 # download files
-fastqer-dump --split-files $ACC
+fasterq-dump --split-files $ACC
 
 # gzip files
 
