@@ -26,10 +26,8 @@ mkdir -p $OUTDIR
 METATABLE=../../metadata/Reidetal2016_wgs_SRA_accessions.txt
 
 # accession numbers from table
-ACC=$(cut -d "," -f 1 $METATABLE | tail -n +2 | tr "\n" " ")
-
-# download files
-fasterq-dump --split-files $ACC
+cut -d "," -f 1 $METATABLE | tail -n +2 | \
+parallel -k -j 5 fasterq-dump {} -O $OUTDIR -e 6
 
 # gzip files
 
