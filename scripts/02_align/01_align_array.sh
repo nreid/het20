@@ -41,5 +41,11 @@ FQS=($(find -L ${INDIR} -name "*1.fastq.gz"))
 # fastq files
 FQ1=${FQS[$SLURM_ARRAY_TASK_ID]}
 
+# get corresponding sample ID
+SRA2SAMPLE=../../metadata/sra2sampleID.txt
+SRA=$(basename $FQ1 | sed 's/_R*[12].fastq.gz//')
+SAM=$(grep $SRA $SRA2SAMPLE | cut -f 2)
+echo $SAM
+
 # execute alignment script, supplying fastq R1, output directory, and reference genome
-bash align_generic.sh $FQ1 $OUTDIR $GENOME
+bash align_generic.sh $FQ1 $OUTDIR $GENOME $SAM
