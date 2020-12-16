@@ -5,23 +5,27 @@
 # $3 reference genome
 # $4 sample ID
 
+echo $1 $2 $3 $4
+
 # samtools and samblaster must be loaded or in $PATH
 
 # specify fq files
 fq1=$1
 fq2=$(echo $fq1 | sed 's/1.fastq.gz/2.fastq.gz/')
 
+#outdir
+outdir=$2
+
+# reference genome
+bwagenind=$3
+
 # sample ID and read group
 sam=$4
 rg=$(echo \@RG\\tID:$sam\\tPL:Illumina\\tPU:x\\tLB:x\\tSM:$sam)
 
 # output root, directory
-outdir=$2
 outroot=$sam
 echo $outroot
-
-# reference genome
-bwagenind=$3
 
 # bwa command
 cmdline=bwa\ mem\ $bwagenind\ -t\ 2\ -R\ $rg\ $fq1\ $fq2
