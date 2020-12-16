@@ -11,24 +11,42 @@
 #SBATCH --qos=general
 #SBATCH --partition=general
 
+hostname
+date
 
+# this script quantifies fragments mapping per sample in 1kb windows across the genome
 
+# load software
 module load subread/1.6.0
 module load htslib/1.9
+module load bedtools/2.29.0
+
+# input, output directories, files
+
+# input bams
+INDIR=../../results/alignments/
 
 # output file/directory
 OUTDIR=../../results/coverage
 mkdir -p $OUTDIR
 OUTFILE=fundulus_counts.txt
 
-# 1kb window "annotation" file
-ANN=../../genome/1kbwin.saf
-
 # create a bam list
 LIST=$OUTDIR/bams.list
-find ../../results/alignments/ -name "*bam" | grep -v "disc" | grep -v "split" | sort >$LIST
+find $INDIR -name "*bam" | grep -v "disc" | grep -v "split" | sort >$LIST
+
+# create a 1kb nonoverlapping window SAF "annotation" file
+BED=../../genome/1kbwin.bed
+ANN=../../genome/1kbwin.saf
+FAI=../../genome/GCF_011125445.2_MU-UCD_Fhet_4.1_genomic.fna.fai
+
+bedtools makewindows -g $FAI -w 1000 -s 1000 >$BED
+
+echo -e "GeneID\tChr\tStart\tEnd\tStrand\n" >$ANN
+awk '{OFS="\t"}{print NR,$1,$2+1,$3,"+"}' $BED >>$ANN
 
 
+# run featureCounts
 featureCounts \
 -F SAF \
 -Q 30 \
