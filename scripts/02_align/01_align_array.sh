@@ -11,12 +11,9 @@
 #SBATCH --qos=general
 #SBATCH --array=[0-885]%30
 
-
-hostname
-date
-
 echo "host name : " `hostname`
 echo This is array task number $SLURM_ARRAY_TASK_ID
+date
 
 # load software----------------------------------------------
 module load samtools/1.10
