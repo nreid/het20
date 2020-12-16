@@ -9,23 +9,36 @@
 #SBATCH --mem=5G
 #SBATCH --partition=general
 #SBATCH --qos=general
-#SBATCH --array=[0-213]%20
+#SBATCH --array=[0-885]%30
 
 
-module load samtools/1.9
+hostname
+date
+
+echo "host name : " `hostname`
+echo This is array task number $SLURM_ARRAY_TASK_ID
+
+# load software----------------------------------------------
+module load samtools/1.10
 module load bwa/0.7.17
+module load samblaster/0.1.24
 
-# reference genome
-GENOME=../../genome/GCF_000826765.1_Fundulus_heteroclitus-3.0.2_genomic.fasta.bgz
+# set input/output files, directories------------------------
+
+# input fastq file directory
+INDIR=../../data
 
 # output directory
 OUTDIR=../../results/alignments
 mkdir -p $OUTDIR
 
-# fastq file bash array
-FQS=($(find -L ../../data -name "*fastq.gz" | grep -v "Undetermined" | grep "_R1.fastq.gz" | sort))
+# reference genome
+GENOME=../../genome/mummichog
 
-# fastq R1 file
+# fastq file bash array
+FQS=($(find -L ${INDIR} -name "*1.fastq.gz"))
+
+# fastq files
 FQ1=${FQS[$SLURM_ARRAY_TASK_ID]}
 
 # execute alignment script, supplying fastq R1, output directory, and reference genome

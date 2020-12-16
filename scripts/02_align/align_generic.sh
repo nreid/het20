@@ -8,10 +8,10 @@
 
 # specify fq files
 fq1=$1
-fq2=$(echo $fq1 | sed 's/_R1.fastq.gz/_R2.fastq.gz/')
+fq2=$(echo $fq1 | sed 's/1.fastq.gz/2.fastq.gz/')
 
 # sample ID and read group
-sam=$(echo $1 | sed 's/..*\///' | sed 's/_R..fastq.gz//')
+sam=$(basename $1 | sed 's/_R*[12].fastq.gz//')
 rg=$(echo \@RG\\tID:$sam\\tPL:Illumina\\tPU:x\\tLB:x\\tSM:$sam)
 
 # output root, directory
@@ -21,15 +21,16 @@ outroot=$sam
 # reference genome
 bwagenind=$3
 
-# software locations
-SBL=~/bin/samblaster/samblaster
-
 # bwa command
 cmdline=bwa\ mem\ $bwagenind\ -t\ 2\ -R\ $rg\ $fq1\ $fq2
 echo $cmdline
 
 # execute bwa command line, pipe to samblaster to mark duplicates and create files containing discordant and split alignments, then to samtools to sort output. 
-$cmdline | $SBL -e -d $outdir/$outroot.disc.sam -s $outdir/$outroot.split.sam | samtools view -S -h -u - | samtools sort -T $outdir/$outroot - >$outdir/$outroot.bam
+$cmdline | \
+samblaster -e -d $outdir/$outroot.disc.sam -s $outdir/$outroot.split.sam | \
+samtools view -S -h -u - | \
+samtools sort -T $outdir/$outroot - \
+>$outdir/$outroot.bam
 
 # index bam file
 samtools index $outdir/$outroot.bam
