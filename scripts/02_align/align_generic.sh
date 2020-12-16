@@ -18,6 +18,7 @@ rg=$(echo \@RG\\tID:$sam\\tPL:Illumina\\tPU:x\\tLB:x\\tSM:$sam)
 # output root, directory
 outdir=$2
 outroot=$sam
+echo $outroot
 
 # reference genome
 bwagenind=$3
