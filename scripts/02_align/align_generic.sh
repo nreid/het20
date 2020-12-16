@@ -3,15 +3,16 @@
 # $1 fastq1
 # $2 output directory
 # $3 reference genome
+# $4 sample ID
 
-# samtools must be loaded or in $PATH
+# samtools and samblaster must be loaded or in $PATH
 
 # specify fq files
 fq1=$1
 fq2=$(echo $fq1 | sed 's/1.fastq.gz/2.fastq.gz/')
 
 # sample ID and read group
-sam=$(basename $1 | sed 's/_R*[12].fastq.gz//')
+sam=$4
 rg=$(echo \@RG\\tID:$sam\\tPL:Illumina\\tPU:x\\tLB:x\\tSM:$sam)
 
 # output root, directory
