@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=getreid2016
+#SBATCH --job-name=getoziolor2016
 #SBATCH -n 1
 #SBATCH -N 1
 #SBATCH -c 30
