@@ -9,7 +9,7 @@
 #SBATCH --mem=2G
 #SBATCH --partition=general
 #SBATCH --qos=general
-#SBATCH --array=[0-427]%20
+#SBATCH --array=[0-885]%20
 
 hostname
 date
@@ -18,18 +18,20 @@ echo "host name : " `hostname`
 echo This is array task number $SLURM_ARRAY_TASK_ID
 
 # load software
-module load fastqc
+module load fastqc/0.11.7
 
 #input/output directories, supplementary files
 
-FASTQS=($(find -L ../../data -name "*fastq.gz" | grep -v "Undetermined"))
-
+INDIR=../../data
 OUTDIR=../../results/fastqc
 mkdir -p $OUTDIR
 
-INFILE=${FASTQS[$SLURM_ARRAY_TASK_ID]}
+FASTQS=($(find -L ${INDIR} -name "*1.fastq.gz"))
 
+FQ1=${FASTQS[$SLURM_ARRAY_TASK_ID]}
+FQ2=$(echo $FQ1 | sed 's/1.fastq.gz/2.fastq.gz/')
 # run fastqc. "*fq" tells it to run on all fastq files in directory "../rawdata/"
-fastqc -t 2 -o $OUTDIR $INFILE
+fastqc -t 2 -o $OUTDIR $FQ1
+fastqc -t 2 -o $OUTDIR $FQ2
 
 date
