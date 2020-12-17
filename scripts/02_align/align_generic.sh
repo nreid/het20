@@ -28,26 +28,26 @@ outroot=$sam
 echo $outroot
 
 # bwa command
-cmdline=bwa\ mem\ $bwagenind\ -t\ 2\ -R\ $rg\ $fq1\ $fq2
+cmdline=bwa\ mem\ $bwagenind\ -t\ 4\ -R\ $rg\ $fq1\ $fq2
 echo $cmdline
 
 # execute bwa command line, pipe to samblaster to mark duplicates and create files containing discordant and split alignments, then to samtools to sort output. 
 $cmdline | \
 samblaster -e -d $outdir/$outroot.disc.sam -s $outdir/$outroot.split.sam | \
 samtools view -S -h -u - | \
-samtools sort -T $outdir/$outroot - \
+samtools sort -@ 4 -T $outdir/$outroot - \
 >$outdir/$outroot.bam
 
 # index bam file
 samtools index $outdir/$outroot.bam
 
 # sort, compress, index disc
-samtools view -S -h -u $outdir/$outroot.disc.sam | samtools sort -T $outdir/$outroot - >$outdir/$outroot.disc.bam
+samtools view -S -h -u $outdir/$outroot.disc.sam | samtools sort -@ 4 -T $outdir/$outroot - >$outdir/$outroot.disc.bam
 samtools index $outdir/$outroot.disc.bam
 rm $outdir/$outroot.disc.sam
 
 # sort, compress, index split
-samtools view -S -h -u $outdir/$outroot.split.sam | samtools sort -T $outdir/$outroot - >$outdir/$outroot.split.bam
+samtools view -S -h -u $outdir/$outroot.split.sam | samtools sort -@ 4 -T $outdir/$outroot - >$outdir/$outroot.split.bam
 samtools index $outdir/$outroot.split.bam
 rm $outdir/$outroot.split.sam
 
