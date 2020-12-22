@@ -7,7 +7,7 @@
 #SBATCH -n 1
 #SBATCH -N 1
 #SBATCH -c 8
-#SBATCH --mem=10G
+#SBATCH --mem=20G
 #SBATCH --qos=general
 #SBATCH --partition=general
 
