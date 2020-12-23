@@ -61,6 +61,6 @@ freebayes \
 --haplotype-length 0 \
 --use-best-n-alleles 15 \
 --min-alternate-count 2 \
--r $SCAF | \
+-r $REGION | \
 bgzip >$OUTDIR/${REGION}.vcf.gz
 
