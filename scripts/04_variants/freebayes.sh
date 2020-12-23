@@ -26,7 +26,7 @@ module load freebayes/1.3.1
 # input/output directories, supplemental files
 
 # ref genome
-GENOME=../../genome/GCF_000826765.1_Fundulus_heteroclitus-3.0.2_genomic.fasta
+GENOME=../../genome/GCF_011125445.2_MU-UCD_Fhet_4.1_genomic.fna
 
 INDIR=../../results/alignments
 
