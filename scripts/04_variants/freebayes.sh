@@ -21,9 +21,7 @@ date
 
 
 module load htslib/1.9
-
-# freebayes installed in my home directory
-FB=~/bin/freebayes/bin/freebayes
+module load freebayes/1.3.1
 
 # input/output directories, supplemental files
 
