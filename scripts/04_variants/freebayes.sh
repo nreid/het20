@@ -52,7 +52,7 @@ REGION=$(sed -n ${SN}p $WINDOWS | awk '{print $1 ":" $2+1 "-" $3}')
 
 
 # run freebayes
-$FB \
+freebayes \
 -f $GENOME \
 --bam-list $BAMLIST \
 -T 0.01 \
