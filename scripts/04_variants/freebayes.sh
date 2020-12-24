@@ -49,7 +49,7 @@ ARINC=$1
 SN=$(($SLURM_ARRAY_TASK_ID + $ARINC))
 # window from bed file
 REGION=$(sed -n ${SN}p $WINDOWS | awk '{print $1 ":" $2+1 "-" $3}')
-
+echo $REGION
 
 # run freebayes
 freebayes \
@@ -59,8 +59,10 @@ freebayes \
 -k \
 --skip-coverage 8000 \
 --haplotype-length 0 \
---use-best-n-alleles 15 \
---min-alternate-count 2 \
+--use-best-n-alleles 10 \
+--min-alternate-count 1 \
+--min-mapping-quality 25 \
+--min-base-quality 20 \
 -r $REGION | \
 bgzip >$OUTDIR/${REGION}.vcf.gz
 
