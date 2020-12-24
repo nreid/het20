@@ -6,7 +6,7 @@
 #SBATCH --mail-user=noah.reid@uconn.edu
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=2
-#SBATCH --mem=15G
+#SBATCH --mem=8G
 #SBATCH --partition=general
 #SBATCH --qos=general
 #SBATCH --array=1-1000
