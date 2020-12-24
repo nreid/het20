@@ -63,6 +63,8 @@ freebayes \
 --min-alternate-count 1 \
 --min-mapping-quality 25 \
 --min-base-quality 20 \
+--min-supporting-mapping-qsum 60 \
+--min-supporting-allele-qsum 33 \
 -r $REGION | \
 bgzip >$OUTDIR/${REGION}.vcf.gz
 
