@@ -29,3 +29,10 @@ sbatch freebayes.sh 0
 sbatch freebayes.sh 1000
 sbatch freebayes.sh 2000
 sbatch --array=1-183 freebayes.sh 3000
+
+# submit them using freebayes parallel for the chromosomes:
+
+# sbatch freebayes_by_chr.sh 0 
+# sbatch --array=894-1000 freebayes.sh 1000
+# sbatch freebayes.sh 2000
+# sbatch --array=1-183 freebayes.sh 3000

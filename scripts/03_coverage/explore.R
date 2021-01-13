@@ -46,6 +46,8 @@ all(counts[,2]==counts[,3])
 
 
 
+
+
 # total counts by sample
 cs <- colSums(tab[,-c(1:6)])
 
