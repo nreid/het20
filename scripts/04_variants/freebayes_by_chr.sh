@@ -23,6 +23,7 @@ date
 module load htslib/1.9
 module load freebayes/1.3.1
 module load vcflib/1.0.0-rc1
+module load parallel/20180122
 
 # input/output directories, supplemental files
 
