@@ -70,7 +70,7 @@ bash freebayes_parallel.sh \
 	--min-mapping-quality 25 \
 	--min-base-quality 20 \
 	--min-supporting-mapping-qsum 60 \
-	--min-supporting-allele-qsum 33 \
+	--min-supporting-allele-qsum 33 | \
 bgzip -c >$OUTDIR/${REGION}.vcf.gz
 
 # index the vcf file
